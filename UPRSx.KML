@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-16-2026 12:44:43 PM</name>
+		<name>07-16-2026 12:44:59 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 67<br>Filter = FMWOIU<br>UPRSx Version 2.4.837<br>]]></description>
+		<description><![CDATA[Count = 71<br>Filter = FMWOIU<br>UPRSx Version 2.4.837<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-16-2026 12:44:43 PM<br>Count = 67<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-16-2026 12:44:59 PM<br>Count = 71<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -149,7 +149,7 @@
 		</Style>
 		<description><![CDATA[7/16/2026 12:44:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.3531083,38.6307167</coordinates>
+			<coordinates>-92.3433333,38.6203383</coordinates>
 		</Point>
 	</Placemark>
 
@@ -177,18 +177,18 @@
 		<name>KF0SMD-5</name>
 		<Style id="KF0SMD-5_S">
 			<IconStyle>
-				<heading>27</heading>
+				<heading>-9</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/59.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/59R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[117° SE/9 MPH<br>A=393FT<br>7/16/2026 12:42:29 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[261° W/2 MPH<br>A=360FT<br>7/16/2026 12:44:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.253,38.5853333</coordinates>
+			<coordinates>-90.2473333,38.5825</coordinates>
 		</Point>
 	</Placemark>
 
@@ -1354,6 +1354,78 @@
 		<description><![CDATA[7/16/2026 12:44:39 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.899,38.8235</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="N9PBD-15">
+		<name>N9PBD-15</name>
+		<Style id="N9PBD-15_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/3.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/16/2026 2:04:00 PM<br>Age = -80 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-89.9003333,38.5588333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="CCARES-8">
+		<name>CCARES-8</name>
+		<Style id="CCARES-8_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/79.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[360° N/0 MPH<br>7/16/2026 12:44:46 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.699,37.452</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KJ5EKK-D">
+		<name>KJ5EKK-D</name>
+		<Style id="KJ5EKK-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/28.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/16/2026 12:44:46 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.1815,39.9301667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="STLSMI">
+		<name>STLSMI</name>
+		<Style id="STLSMI_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/72.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/16/2026 12:44:47 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.5818333,39.3776667</coordinates>
 		</Point>
 	</Placemark>
 
