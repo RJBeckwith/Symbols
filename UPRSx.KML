@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>UPRSx</name>
+	<Placemark>
+		<name>07-16-2026 11:52:37 AM</name>
+		<Snippet maxLines="1"></Snippet>
+		<Style>
+			<IconStyle>
+				<Icon>
+				</Icon>
+			</IconStyle>
+				<LabelStyle>
+					<color>ff00ffff</color>
+				</LabelStyle>
+			</Style>
+		<description><![CDATA[Count = 13<br>Filter = W<br>UPRSx Version 2.4.835<br>]]></description>
+	</Placemark>
+	<open>1</open>
+	<Snippet maxLines="1"></Snippet>
+	<description><![CDATA[07-16-2026 11:52:37 AM<br>Count = 13<br>Filter = W<br>]]></description>
+
+	<Style id="sn_noicon">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+
+	<Placemark id="WN0X-1">
+		<name>WN0X-1</name>
+		<Style id="WN0X-1_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/15.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/16/2026 11:52:18 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.3449134,38.6302348</coordinates>
+		</Point>
+	</Placemark>
+	<Style id="WN0X-1_S1">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>TH6DXX</name>
+		<styleUrl>#sn_noicon</styleUrl>
+		<Point>
+			<coordinates>-91.9309775243633,39.2796486347288</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="WN0X-1_P1">
+		<name>WN0X-1_TH6DXX</name>
+		<styleUrl>#WN0X-1_S1</styleUrl>
+		<LineString>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>clampedToGround</altitudeMode>
+				<coordinates>-92.3449134,38.6302348,0 -91.51704165,39.92906247,0 -90.65721932,41.22177521,0 -89.76280616,42.50783492,0 -88.83092065,43.78664829,0 -87.85841428,45.05755976,0 -86.84184337,46.31984345,0 -85.77743843,47.57269401,0 -84.66107105,48.81521606,0 -83.48821868,50.04641229,0 -82.25392754,51.2651698,0 -80.95277462,52.47024465,0 -79.5788299,53.66024425,0 -78.12562074,54.83360764,0 -76.58610119,55.98858319,0 -74.95263023,57.12320397,0 </coordinates>
+			</LineString>
+	</Placemark>
+	<Style id="WN0X-1_S2">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>2300ff00</color>
+			<fill>1</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark id="WN0X-1_P2">
+		<name>WN0X-1_P2</name>
+		<styleUrl>#WN0X-1_S2</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+				<coordinates>-91.60757918,41.47133879,0 -91.2143746,42.89002519,0 -90.8026616,44.30730268,0 -90.3705823,45.7230282,0 -89.91604476,47.13704037,0 -89.43668453,48.54915638,0 -88.92981842,49.95916829,0 -88.39238886,51.3668385,0 -87.8208965,52.7718943,0 -87.21131813,54.17402113,0 -86.55900619,55.57285424,0 -85.85856497,56.96796844,0 -85.10369722,58.35886514,0 -84.28701305,59.74495611,0 -84.28701305,59.74495611,0 -82.90057048,59.50717845,0 -81.5512661,59.23259703,0 -80.24326782,58.92241767,0 -78.98019732,58.57795502,0 -77.76512135,58.20061294,0 -76.6005576,57.79186518,0 -75.48849289,57.35323689,0 -74.43041159,56.88628747,0 -73.42733147,56.39259487,0 -72.47984497,55.87374171,0 -71.58816348,55.33130316,0 -70.75216277,54.76683668,0 -69.97142819,54.18187351,0 -69.24529815,53.57791184,0 -68.57290525,52.95641146,0 -68.57290525,52.95641146,0 -70.58241203,52.17802849,0 -72.52136663,51.36669633,0 -74.39155722,50.52449018,0 -76.1950644,49.65338913,0 -77.93418779,48.75527172,0 -79.61138222,47.83191391,0 -81.22920324,46.88498908,0 -82.79026157,45.91606959,0 -84.29718556,44.9266295,0 -85.75259093,43.91804819,0 -87.1590568,42.89161461,0 -88.51910716,41.84853189,0 -89.83519703,40.78992217,0 -91.1097024,39.7168315,0 -92.3449134,38.6302348,0 -92.3449134,38.6302348,0 -91.98393156,40.05137076,0 </coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Style id="WN0X-1_S3">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>40 M</name>
+		<styleUrl>#sn_noicon</styleUrl>
+		<Point>
+			<coordinates>-91.5759669893673,38.2307769079946</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="WN0X-1_P3">
+		<name>WN0X-1_40 M</name>
+		<styleUrl>#WN0X-1_S3</styleUrl>
+		<LineString>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>clampedToGround</altitudeMode>
+				<coordinates>-92.3449134,38.6302348,0 -90.80702058,37.83131902,0 -89.30247317,37.01283868,0 -87.83034611,36.17577496,0 -86.38966354,35.32107324,0 -84.97941034,34.44964283,0 -83.59854239,33.56235712,0 -82.2459955,32.660054,0 -80.92069328,31.74353649,0 -79.62155376,30.8135736,0 -78.34749515,29.87090135,0 </coordinates>
+			</LineString>
+	</Placemark>
+	<Style id="WN0X-1_S4">
+		<LineStyle>
+			<color>ffff0080</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>23ff0080</color>
+			<fill>1</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark id="WN0X-1_P4">
+		<name>WN0X-1_P4</name>
+		<styleUrl>#WN0X-1_S4</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+				<coordinates>-88.86332018,37.68323159,0 -87.15693263,37.17196001,0 -85.47401669,36.63655573,0 -83.81482904,36.07781343,0 -82.17951985,35.49653065,0 -80.56813956,34.89350451,0 -78.98064605,34.26952859,0 -77.41691188,33.6253903,0 -75.87673167,32.96186852,0 -75.87673167,32.96186852,0 -76.161191,32.52264872,0 -76.46027685,32.09107097,0 -76.77355551,31.66752466,0 -77.10059707,31.25238934,0 -77.44097502,30.84603471,0 -77.79426601,30.44882066,0 -78.16004948,30.06109731,0 -78.53790733,29.6832049,0 -78.92742361,29.31547383,0 -79.32818418,28.95822458,0 -79.73977638,28.61176761,0 -80.16178871,28.27640334,0 -80.59381055,27.95242199,0 -81.0354319,27.64010351,0 -81.48624305,27.33971746,0 -81.48624305,27.33971746,0 -82.4560205,28.50735685,0 -83.4474417,29.6679583,0 -84.46193582,30.82100977,0 -85.50100172,31.96596603,0 -86.56621138,33.10224585,0 -87.65921306,34.22922893,0 -88.781734,35.34625272,0 -89.93558278,36.45260893,0 -91.12265088,37.54753992,0 -92.3449134,38.6302348,0 -92.3449134,38.6302348,0 -90.59280979,38.16958237,0 </coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+
+
+	<Placemark id="WD0REW">
+		<name>WD0REW</name>
+		<Style id="WD0REW_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[79F RH=84% DP=74° BP=1021.6 hg<br>Rain=0.03" since Midnight.<br>7/16/2026 11:52:00 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-93.251,37.1646667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="K0WXC-1">
+		<name>K0WXC-1</name>
+		<Style id="K0WXC-1_S">
+			<IconStyle>
+				<heading>133</heading>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
+				</Icon>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[89F  SE / 4 MPH / 4 MPH<br>RH=54% DP=71° BP=1026.5 hg<br>7/16/2026 11:50:00 AM<br>Age = 2 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.6298333,40.1493333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="NC4M">
+		<name>NC4M</name>
+		<Style id="NC4M_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[85F RH=73% DP=76° BP=1020 hg<br>7/16/2026 11:52:00 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-91.7583333,37.9438333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KD0TNH-14">
+		<name>KD0TNH-14</name>
+		<Style id="KD0TNH-14_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[76F RH=91% DP=73° BP=29.3 hg<br>Rain=3.78" since Midnight.<br>7/16/2026 11:52:00 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.4156667,38.5875</coordinates>
+		</Point>
+	</Placemark>
+
+</Document>
+</kml>
+
