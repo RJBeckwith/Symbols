@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 3:18:12 PM</name>
+		<name>07-20-2026 3:18:29 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 258<br>Filter = FMWOIU<br>UPRSx Version 2.4.863<br>]]></description>
+		<description><![CDATA[Count = 262<br>Filter = FMWOIU<br>UPRSx Version 2.4.863<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 3:18:12 PM<br>Count = 258<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 3:18:29 PM<br>Count = 262<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -293,9 +293,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=1119FT<br>Off-Duty<br>7/20/2026 3:15:04 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[A=1093FT<br>Off-Duty<br>7/20/2026 3:18:17 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.67350006,38.98300171</coordinates>
+			<coordinates>-94.67333221,38.98300171</coordinates>
 		</Point>
 	</Placemark>
 
@@ -628,7 +628,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 3:17:10 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 3:18:20 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -791,7 +791,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 3:15:37 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 3:18:29 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5753333,39.0846667</coordinates>
 		</Point>
@@ -2148,7 +2148,7 @@
 		<name>KC0RPY</name>
 		<Style id="KC0RPY_S">
 			<IconStyle>
-				<heading>160</heading>
+				<heading>166</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -2158,7 +2158,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[98F  S / 3 MPH / 3 MPH<br>RH=48% DP=76° BP=1012.2 hg<br>7/20/2026 3:13:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[98F  S / 2 MPH / 2 MPH<br>RH=52% DP=78° BP=1012.2 hg<br>7/20/2026 3:18:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.9318333,38.8226667</coordinates>
 		</Point>
@@ -2744,9 +2744,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7° N/0 MPH<br>A=1070FT<br>Committed<br>7/20/2026 3:16:41 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[265° W/3 MPH<br>A=1040FT<br>Committed<br>7/20/2026 3:18:18 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.77783203,38.96500015</coordinates>
+			<coordinates>-94.77733612,38.9659996</coordinates>
 		</Point>
 	</Placemark>
 
@@ -3236,7 +3236,7 @@
 		<name>W0LON-9</name>
 		<Style id="W0LON-9_S">
 			<IconStyle>
-				<heading>-33</heading>
+				<heading>14</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
 				</Icon>
@@ -3245,9 +3245,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[57° NE/39 MPH<br>A=472FT<br>Enroute<br>7/20/2026 3:17:54 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[104° E/49 MPH<br>A=463FT<br>Enroute<br>7/20/2026 3:18:24 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.65499878,38.67183304</coordinates>
+			<coordinates>-90.64966583,38.67083359</coordinates>
 		</Point>
 	</Placemark>
 
@@ -4770,6 +4770,79 @@
 		</Point>
 	</Placemark>
 
+
+	<Placemark id="KC0OKW-B">
+		<name>KC0OKW-B</name>
+		<Style id="KC0OKW-B_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/167.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[A=10FT<br>7/20/2026 3:18:18 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.42,37.8371667</coordinates>
+		</Point>
+	</Placemark>
+
+
+	<Placemark id="N0NOE-10">
+		<name>N0NOE-10</name>
+		<Style id="N0NOE-10_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/159.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 3:18:00 AM<br>Age = 720 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-91.5333333,38.35</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="WE1LDS-4">
+		<name>WE1LDS-4</name>
+		<Style id="WE1LDS-4_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/13.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[14° N/1 MPH<br>A=928FT<br>7/20/2026 3:18:20 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.2638567,38.77384</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="N0SLJ-10">
+		<name>N0SLJ-10</name>
+		<Style id="N0SLJ-10_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/159.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 3:18:00 AM<br>Age = 720 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.45,38.8</coordinates>
+		</Point>
+	</Placemark>
 
 </Document>
 </kml>
