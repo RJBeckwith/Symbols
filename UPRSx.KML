@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 6:03:36 PM</name>
+		<name>07-20-2026 6:03:52 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 67<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
+		<description><![CDATA[Count = 68<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 6:03:36 PM<br>Count = 67<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 6:03:52 PM<br>Count = 68<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -205,7 +205,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[19° N/0 MPH<br>A=685FT<br>7/20/2026 6:03:13 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[19° N/0 MPH<br>A=672FT<br>7/20/2026 6:03:46 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8875</coordinates>
 		</Point>
@@ -1260,6 +1260,25 @@
 		<description><![CDATA[7/20/2026 2:45:00 PM<br>Age = 198 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.34389,38.6248833</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KB0VZP-14">
+		<name>KB0VZP-14</name>
+		<Style id="KB0VZP-14_S">
+			<IconStyle>
+				<heading>62</heading>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[152° SE/22 MPH<br>A=761FT<br>Off-Duty<br>7/20/2026 6:03:51 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-93.68566895,38.77133179</coordinates>
 		</Point>
 	</Placemark>
 
