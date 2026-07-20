@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 4:53:00 PM</name>
+		<name>07-20-2026 4:53:16 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 4:53:00 PM<br>Count = 222<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 4:53:16 PM<br>Count = 222<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -362,7 +362,7 @@
 		<name>KC9AEC-9</name>
 		<Style id="KC9AEC-9_S">
 			<IconStyle>
-				<heading>-36</heading>
+				<heading>51</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
@@ -371,9 +371,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[234° SW/33 MPH<br>A=564FT<br>Enroute<br>7/20/2026 4:52:37 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[321° NW/55 MPH<br>A=538FT<br>Enroute<br>7/20/2026 4:53:13 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.38366699,38.43983459</coordinates>
+			<coordinates>-90.39050293,38.44100189</coordinates>
 		</Point>
 	</Placemark>
 
@@ -499,7 +499,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[9W 320 HAAT 1db SW<br>7/20/2026 4:47:39 PM<br>Age = 6 minutes old.<br>]]></description>
+		<description><![CDATA[9W 320 HAAT 1db SW<br>7/20/2026 4:53:08 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.6763333,40.4236667</coordinates>
 		</Point>
@@ -1461,7 +1461,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 4:46:26 PM<br>Age = 7 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 4:53:10 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5851667,39.364</coordinates>
 		</Point>
@@ -1571,7 +1571,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 4:46:43 PM<br>Age = 7 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 4:53:04 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.306,38.5641667</coordinates>
 		</Point>
@@ -1684,7 +1684,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=760FT<br>7/20/2026 4:50:00 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[A=760FT<br>7/20/2026 4:53:10 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.9101667,39.1808333</coordinates>
 		</Point>
@@ -2508,7 +2508,7 @@
 		<name>AD0YN</name>
 		<Style id="AD0YN_S">
 			<IconStyle>
-				<heading>197</heading>
+				<heading>176</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_10.png</href>
@@ -2518,7 +2518,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[94F  S / 6 MPH / 9 MPH<br>RH=58% DP=77° BP=1008.5 hg<br>7/20/2026 4:47:00 PM<br>Age = 6 minutes old.<br>]]></description>
+		<description><![CDATA[95F  S / 6 MPH / 9 MPH<br>RH=57% DP=78° BP=1008.5 hg<br>7/20/2026 4:53:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.3981667,39.6596667</coordinates>
 		</Point>
@@ -2610,7 +2610,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[97F RH=56% DP=79° BP=1013.9 hg<br>7/20/2026 4:48:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[97F RH=55% DP=79° BP=1013.8 hg<br>7/20/2026 4:53:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5538333,37.0643333</coordinates>
 		</Point>
@@ -2886,7 +2886,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 1280 HAAT 6db OMNI<br>7/20/2026 4:48:53 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[49W 1280 HAAT 6db OMNI<br>7/20/2026 4:53:11 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.92,38.704</coordinates>
 		</Point>
