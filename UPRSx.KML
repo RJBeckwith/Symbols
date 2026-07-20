@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 4:55:43 PM</name>
+		<name>07-20-2026 4:55:59 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 257<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
+		<description><![CDATA[Count = 259<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 4:55:43 PM<br>Count = 257<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 4:55:59 PM<br>Count = 259<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -122,17 +122,19 @@
 		<name>K0QJ</name>
 		<Style id="K0QJ_S">
 			<IconStyle>
+				<heading>138</heading>
+				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/64.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[96F RH=55% DP=78° BP=1008.6 hg<br>7/20/2026 4:54:29 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[95F  SE / 1 MPH / 1 MPH<br>RH=56% DP=77° BP=1008.6 hg<br>7/20/2026 4:55:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.7118333,38.9701667</coordinates>
+			<coordinates>-94.7091667,38.9703333</coordinates>
 		</Point>
 	</Placemark>
 
@@ -362,7 +364,7 @@
 		<name>KC9AEC-9</name>
 		<Style id="KC9AEC-9_S">
 			<IconStyle>
-				<heading>-3</heading>
+				<heading>-53</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
@@ -371,9 +373,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[267° W/37 MPH<br>A=502FT<br>Enroute<br>7/20/2026 4:53:43 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[217° SW/15 MPH<br>A=515FT<br>Enroute<br>7/20/2026 4:55:54 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.39683533,38.44449997</coordinates>
+			<coordinates>-90.40166473,38.4438324</coordinates>
 		</Point>
 	</Placemark>
 
@@ -974,17 +976,17 @@
 		<name>W0SS-13</name>
 		<Style id="W0SS-13_S">
 			<IconStyle>
-				<heading>267</heading>
+				<heading>216</heading>
 				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_10.png</href>
 				</Icon>
 				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[97F  W / 2 MPH / 3 MPH<br>RH=51% DP=76° BP=1011.2 hg<br>7/20/2026 4:50:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[96F  SW / 5 MPH / 6 MPH<br>RH=50% DP=75° BP=1011.3 hg<br>7/20/2026 4:55:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.942,38.8958333</coordinates>
 		</Point>
@@ -1002,7 +1004,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 4:45:48 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 4:55:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.7216667,38.7666667</coordinates>
 		</Point>
@@ -1094,7 +1096,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[25W 320 HAAT 3db OMNI<br>7/20/2026 4:45:55 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[25W 320 HAAT 3db OMNI<br>7/20/2026 4:55:55 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2133333,38.5516667</coordinates>
 		</Point>
@@ -1720,7 +1722,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 4:52:50 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 4:55:50 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8153333,38.8848333</coordinates>
 		</Point>
@@ -1774,7 +1776,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 4:52:55 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 4:55:55 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7093333,38.8955</coordinates>
 		</Point>
@@ -3200,7 +3202,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 4:49:00 PM<br>Age = 6 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 4:55:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2786667,37.0728333</coordinates>
 		</Point>
@@ -4770,6 +4772,42 @@
 		<description><![CDATA[7/20/2026 4:55:42 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3891667,38.6965</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="N0APT-1">
+		<name>N0APT-1</name>
+		<Style id="N0APT-1_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/68.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 4:55:44 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.64,38.1795</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="WB0HTW-D">
+		<name>WB0HTW-D</name>
+		<Style id="WB0HTW-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/100.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 4:55:55 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.2338333,38.4325</coordinates>
 		</Point>
 	</Placemark>
 
