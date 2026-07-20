@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 2:36:16 PM</name>
+		<name>07-20-2026 2:39:22 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 3<br>Filter = FMWOIU<br>UPRSx Version 2.4.861<br>]]></description>
+		<description><![CDATA[Count = 2<br>Filter = FMWOIU<br>UPRSx Version 2.4.861<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 2:36:16 PM<br>Count = 3<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 2:39:22 PM<br>Count = 2<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -38,7 +38,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 2:36:14 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 3:38:58 PM<br>Age = -59 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.3450116,38.6299447</coordinates>
 		</Point>
@@ -56,28 +56,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/16/2026 10:24:00 PM<br>Age = 5292 minutes old.<br>]]></description>
+		<description><![CDATA[7/16/2026 10:24:00 PM<br>Age = 5295 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.34389,38.6248833</coordinates>
-		</Point>
-	</Placemark>
-
-	<Placemark id="KA2FNK-1">
-		<name>KA2FNK-1</name>
-		<Style id="KA2FNK-1_S">
-			<IconStyle>
-				<heading>0</heading>
-				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/74R.png</href>
-				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
-			<LabelStyle>
-				<color>ff00ffff</color>
-			</LabelStyle>
-		</Style>
-		<description><![CDATA[270° W/41 MPH<br>A=997FT<br>InService<br>7/20/2026 2:36:15 PM<br>Age = 0 minutes old.<br>]]></description>
-		<Point>
-			<coordinates>-94.66133118,39.01499939</coordinates>
 		</Point>
 	</Placemark>
 
