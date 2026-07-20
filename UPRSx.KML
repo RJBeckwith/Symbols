@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 12:43:33 PM</name>
+		<name>07-20-2026 12:43:49 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 12:43:33 PM<br>Count = 258<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 12:43:49 PM<br>Count = 258<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -745,7 +745,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 12:40:36 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 12:43:35 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6486667,39.2483333</coordinates>
 		</Point>
@@ -892,9 +892,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7° N/0 MPH<br>A=1070FT<br>Committed<br>7/20/2026 12:43:00 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[88° E/0 MPH<br>A=1043FT<br>Committed<br>7/20/2026 12:43:45 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.77766418,38.965168</coordinates>
+			<coordinates>-94.77716827,38.9659996</coordinates>
 		</Point>
 	</Placemark>
 
@@ -2027,7 +2027,7 @@
 		<name>KG0HG</name>
 		<Style id="KG0HG_S">
 			<IconStyle>
-				<heading>157</heading>
+				<heading>238</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -2037,7 +2037,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[94F  SE / 1 MPH / 1 MPH<br>RH=58% DP=77° BP=1012.4 hg<br>7/20/2026 12:38:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[94F  SW / 1 MPH / 3 MPH<br>RH=59% DP=78° BP=1012.2 hg<br>7/20/2026 12:43:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3726667,39.0268333</coordinates>
 		</Point>
@@ -2711,15 +2711,17 @@
 		<name>WB5RFA</name>
 		<Style id="WB5RFA_S">
 			<IconStyle>
+				<heading>176</heading>
+				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[95F RH=60% DP=79° BP=1008.2 hg<br>7/20/2026 12:35:00 PM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[95F  S / 2 MPH / 9 MPH<br>RH=57% DP=78° BP=1008.2 hg<br>7/20/2026 12:43:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8326667,39.0016667</coordinates>
 		</Point>
