@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 3:05:31 PM</name>
+		<name>07-20-2026 3:05:48 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 2<br>Filter = FMWOIU<br>UPRSx Version 2.4.863<br>]]></description>
+		<description><![CDATA[Count = 3<br>Filter = FMWOIU<br>UPRSx Version 2.4.863<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 3:05:31 PM<br>Count = 2<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 3:05:48 PM<br>Count = 3<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -25,6 +25,24 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+
+	<Placemark id="WN0X-1">
+		<name>WN0X-1</name>
+		<Style id="WN0X-1_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/15.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 3:05:47 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.3450224,38.6313077</coordinates>
+		</Point>
+	</Placemark>
 
 	<Placemark id="WNTEST">
 		<name>WNTEST</name>
@@ -41,6 +59,24 @@
 		<description><![CDATA[7/20/2026 2:45:00 PM<br>Age = 20 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.34389,38.6248833</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="N0JVW-N">
+		<name>N0JVW-N</name>
+		<Style id="N0JVW-N_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/100.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 3:05:47 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.3153333,38.9143333</coordinates>
 		</Point>
 	</Placemark>
 
