@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 5:56:41 PM</name>
+		<name>07-20-2026 5:56:56 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 5:56:41 PM<br>Count = 67<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 5:56:56 PM<br>Count = 67<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -196,7 +196,7 @@
 		<name>KD0IZI-1</name>
 		<Style id="KD0IZI-1_S">
 			<IconStyle>
-				<heading>-70</heading>
+				<heading>-71</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
 				</Icon>
@@ -205,7 +205,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[20° N/0 MPH<br>A=580FT<br>7/20/2026 5:56:12 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[19° N/0 MPH<br>A=580FT<br>7/20/2026 5:56:45 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8873333</coordinates>
 		</Point>
@@ -314,7 +314,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=33FT<br>7/20/2026 5:53:46 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[A=33FT<br>7/20/2026 5:56:56 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.1283333,38.6576667</coordinates>
 		</Point>
