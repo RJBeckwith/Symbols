@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 6:58:16 AM</name>
+		<name>07-21-2026 6:58:35 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 6:58:16 AM<br>Count = 385<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 6:58:35 AM<br>Count = 385<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -771,7 +771,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:57:12 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:58:21 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -1364,7 +1364,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:55:24 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:58:24 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8233333,38.8521667</coordinates>
 		</Point>
@@ -2214,7 +2214,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[77F RH=88% DP=73° BP=1014.2 hg<br>7/21/2026 6:53:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[77F RH=88% DP=73° BP=1014 hg<br>7/21/2026 6:58:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.251,37.1646667</coordinates>
 		</Point>
@@ -4460,9 +4460,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[358° N/3 MPH<br>A=1109FT<br>Committed<br>7/21/2026 6:57:47 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[9° N/2 MPH<br>A=1037FT<br>Committed<br>7/21/2026 6:58:20 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.77766418,38.965168</coordinates>
+			<coordinates>-94.77783203,38.965168</coordinates>
 		</Point>
 	</Placemark>
 
@@ -6725,7 +6725,7 @@
 		<name>KF0TXS-7</name>
 		<Style id="KF0TXS-7_S">
 			<IconStyle>
-				<heading>89</heading>
+				<heading>87</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/59R.png</href>
 				</Icon>
@@ -6734,9 +6734,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[359° N/78 MPH<br>A=620FT<br>Off-Duty<br>7/21/2026 6:56:33 AM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[357° N/82 MPH<br>A=591FT<br>Off-Duty<br>7/21/2026 6:58:33 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.44799805,38.65416718</coordinates>
+			<coordinates>-90.45033264,38.69316483</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7036,17 +7036,18 @@
 		<name>WGMSTL</name>
 		<Style id="WGMSTL_S">
 			<IconStyle>
+				<heading>-31</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/107.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[215° SW/5 MPH<br>A=772FT<br>7/21/2026 6:57:18 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[239° SW/0 MPH<br>A=769FT<br>7/21/2026 6:58:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.8987767,38.7157517</coordinates>
+			<coordinates>-90.898845,38.7157267</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7062,9 +7063,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[22° N/76 MPH<br>7/21/2026 6:57:18 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[37° NE/75 MPH<br>7/21/2026 6:58:20 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.8375,37.512</coordinates>
+			<coordinates>-92.8271667,37.5286667</coordinates>
 		</Point>
 	</Placemark>
 
