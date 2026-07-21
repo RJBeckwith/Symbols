@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 8:28:23 PM</name>
+		<name>07-20-2026 8:28:39 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 8:28:23 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 8:28:39 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -205,9 +205,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[225° SW/0 MPH<br>A=229FT<br>7/20/2026 8:27:57 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[225° SW/0 MPH<br>A=177FT<br>7/20/2026 8:28:30 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.6603333,38.8878333</coordinates>
+			<coordinates>-92.6601667,38.8878333</coordinates>
 		</Point>
 	</Placemark>
 
@@ -886,7 +886,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 8:08:37 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 8:28:37 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2893333,38.7941667</coordinates>
 		</Point>
@@ -1155,7 +1155,7 @@
 		<name>KD0OPS-9</name>
 		<Style id="KD0OPS-9_S">
 			<IconStyle>
-				<heading>16</heading>
+				<heading>9</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75R.png</href>
 				</Icon>
@@ -1164,9 +1164,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[286° W/15 MPH<br>A=915FT<br>InService<br>7/20/2026 8:27:56 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[279° W/13 MPH<br>A=925FT<br>InService<br>7/20/2026 8:28:31 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-93.20833588,38.70333481</coordinates>
+			<coordinates>-93.21333313,38.70333481</coordinates>
 		</Point>
 	</Placemark>
 
