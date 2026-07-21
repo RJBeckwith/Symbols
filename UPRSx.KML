@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 6:56:22 AM</name>
+		<name>07-21-2026 6:56:38 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 6:56:22 AM<br>Count = 385<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 6:56:38 AM<br>Count = 385<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -185,7 +185,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:53:25 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:56:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8135,38.8841667</coordinates>
 		</Point>
@@ -240,7 +240,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:53:26 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:56:26 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6853333,38.617</coordinates>
 		</Point>
@@ -773,7 +773,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:55:21 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:56:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -1220,7 +1220,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:51:32 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:56:32 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.306,38.5641667</coordinates>
 		</Point>
@@ -2084,7 +2084,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:51:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:56:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2893333,37.1376667</coordinates>
 		</Point>
@@ -3388,7 +3388,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=262FT<br>7/21/2026 6:46:28 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[A=262FT<br>7/21/2026 6:56:28 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.408305,37.7930018</coordinates>
 		</Point>
@@ -3406,7 +3406,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:42:15 AM<br>Age = 14 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:56:37 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7811667,38.7115</coordinates>
 		</Point>
@@ -4460,9 +4460,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[340° N/0 MPH<br>A=1040FT<br>Committed<br>7/21/2026 6:56:15 AM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[358° N/3 MPH<br>A=1109FT<br>Committed<br>7/21/2026 6:56:38 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.77783203,38.965168</coordinates>
+			<coordinates>-94.77766418,38.965168</coordinates>
 		</Point>
 	</Placemark>
 
@@ -6725,7 +6725,7 @@
 		<name>KF0TXS-7</name>
 		<Style id="KF0TXS-7_S">
 			<IconStyle>
-				<heading>75</heading>
+				<heading>89</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/59R.png</href>
 				</Icon>
@@ -6734,9 +6734,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[345° N/78 MPH<br>A=525FT<br>Off-Duty<br>7/21/2026 6:51:14 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[359° N/78 MPH<br>A=620FT<br>Off-Duty<br>7/21/2026 6:56:33 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.4394989,38.56299973</coordinates>
+			<coordinates>-90.44799805,38.65416718</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7044,9 +7044,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[360° N/36 MPH<br>A=782FT<br>7/21/2026 6:55:49 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[360° N/36 MPH<br>A=763FT<br>7/21/2026 6:56:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.89721,38.71004</coordinates>
+			<coordinates>-90.897135,38.7150317</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7072,7 +7072,7 @@
 		<name>WX9CAH-9</name>
 		<Style id="WX9CAH-9_S">
 			<IconStyle>
-				<heading>89</heading>
+				<heading>52</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
 				</Icon>
@@ -7081,9 +7081,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[179° S/67 MPH<br>A=614FT<br>Off-Duty<br>7/21/2026 6:55:58 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[142° SE/58 MPH<br>A=636FT<br>Off-Duty<br>7/21/2026 6:56:35 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-89.91999817,39.77999878</coordinates>
+			<coordinates>-89.91916656,39.77066803</coordinates>
 		</Point>
 	</Placemark>
 
