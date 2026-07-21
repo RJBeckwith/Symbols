@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 8:00:30 PM</name>
+		<name>07-20-2026 8:00:46 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 75<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
+		<description><![CDATA[Count = 76<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 8:00:30 PM<br>Count = 75<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 8:00:46 PM<br>Count = 76<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -196,18 +196,18 @@
 		<name>KD0IZI-1</name>
 		<Style id="KD0IZI-1_S">
 			<IconStyle>
-				<heading>-21</heading>
+				<heading>77</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[69° E/0 MPH<br>A=610FT<br>7/20/2026 8:00:00 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[347° N/0 MPH<br>A=613FT<br>7/20/2026 8:00:33 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.6598333,38.8873333</coordinates>
+			<coordinates>-92.6598333,38.8875</coordinates>
 		</Point>
 	</Placemark>
 
@@ -426,7 +426,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[85F RH=81% DP=79° BP=1011.3 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 7:55:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[85F RH=81% DP=79° BP=1011.1 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 8:00:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.7583333,37.9438333</coordinates>
 		</Point>
@@ -1404,6 +1404,24 @@
 		<description><![CDATA[180° S/58 MPH<br>7/20/2026 7:58:49 PM<br>Age = 2 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.0836667,39.0475</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KF7MIX">
+		<name>KF7MIX</name>
+		<Style id="KF7MIX_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/39.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/20/2026 8:00:45 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-91.9661667,38.8296667</coordinates>
 		</Point>
 	</Placemark>
 
