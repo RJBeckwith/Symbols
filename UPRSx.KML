@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 9:25:38 AM</name>
+		<name>07-21-2026 9:25:54 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 47<br>Filter = FMWOIU<br>UPRSx Version 2.4.877<br>]]></description>
+		<description><![CDATA[Count = 50<br>Filter = FMWOIU<br>UPRSx Version 2.4.877<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 9:25:38 AM<br>Count = 47<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 9:25:54 AM<br>Count = 50<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -893,6 +893,60 @@
 		<description><![CDATA[7/21/2026 9:25:36 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.6106667,38.7743333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KC0HRT">
+		<name>KC0HRT</name>
+		<Style id="KC0HRT_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/12.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 9:25:39 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.8153333,38.8848333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KE0WVG">
+		<name>KE0WVG</name>
+		<Style id="KE0WVG_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/97.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 9:25:00 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-91.8948333,38.7823333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="W0RS-1">
+		<name>W0RS-1</name>
+		<Style id="W0RS-1_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/97.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 9:25:00 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-93.2786667,37.0728333</coordinates>
 		</Point>
 	</Placemark>
 
