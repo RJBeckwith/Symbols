@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 8:01:28 AM</name>
+		<name>07-21-2026 8:01:45 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 8:01:28 AM<br>Count = 403<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 8:01:45 AM<br>Count = 403<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -1270,9 +1270,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[90° E/0 MPH<br>7/21/2026 7:57:43 AM<br>Age = 4 minutes old.<br>]]></description>
+		<description><![CDATA[90° E/0 MPH<br>7/21/2026 8:01:44 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0971667,38.8365</coordinates>
+			<coordinates>-90.097,38.8365</coordinates>
 		</Point>
 	</Placemark>
 
@@ -1506,7 +1506,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:58:38 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 8:01:38 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8153333,38.8848333</coordinates>
 		</Point>
@@ -4619,7 +4619,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:41:35 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 8:01:35 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.3888333,39.9518333</coordinates>
 		</Point>
@@ -6178,7 +6178,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:58:40 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 8:01:37 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6263333,39.1131667</coordinates>
 		</Point>
@@ -7030,18 +7030,18 @@
 		<name>WGMSTL</name>
 		<Style id="WGMSTL_S">
 			<IconStyle>
-				<heading>-51</heading>
+				<heading>52</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[39° NE/1 MPH<br>A=779FT<br>7/21/2026 8:01:13 AM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[322° NW/0 MPH<br>A=781FT<br>7/21/2026 8:01:28 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.8988433,38.7157783</coordinates>
+			<coordinates>-90.8987867,38.7157567</coordinates>
 		</Point>
 	</Placemark>
 
