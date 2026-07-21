@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 10:45:32 PM</name>
+		<name>07-20-2026 10:45:48 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 10:45:32 PM<br>Count = 376<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 10:45:48 PM<br>Count = 376<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -278,9 +278,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[11° N/0 MPH<br>A=347FT<br>7/20/2026 10:45:10 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[11° N/0 MPH<br>A=311FT<br>7/20/2026 10:45:43 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.66,38.8873333</coordinates>
+			<coordinates>-92.6601667,38.8875</coordinates>
 		</Point>
 	</Placemark>
 
@@ -1619,7 +1619,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:42:36 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:45:36 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5753333,39.0846667</coordinates>
 		</Point>
@@ -1839,7 +1839,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[84F RH=84% DP=79° BP=1012.7 hg<br>7/20/2026 10:40:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[84F RH=84% DP=79° BP=1012.7 hg<br>7/20/2026 10:45:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.799,37.7021667</coordinates>
 		</Point>
@@ -2392,7 +2392,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:35:00 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:45:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.8948333,38.7823333</coordinates>
 		</Point>
@@ -5947,18 +5947,18 @@
 		<name>AE0WC-9</name>
 		<Style id="AE0WC-9_S">
 			<IconStyle>
-				<heading>90</heading>
+				<heading>-28</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[180° S/30 MPH<br>A=1014FT<br>Off-Duty<br>7/20/2026 10:44:27 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[242° SW/28 MPH<br>A=1063FT<br>Off-Duty<br>7/20/2026 10:45:35 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.74216461,38.96766663</coordinates>
+			<coordinates>-94.74266815,38.95999908</coordinates>
 		</Point>
 	</Placemark>
 
@@ -6729,7 +6729,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:00 AM<br>7/20/2026 10:40:47 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:00 AM<br>7/20/2026 10:45:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.9,40.65</coordinates>
 		</Point>
@@ -6829,7 +6829,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:15 AM<br>7/20/2026 10:44:47 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:15 AM<br>7/20/2026 10:45:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.83,40.58</coordinates>
 		</Point>
