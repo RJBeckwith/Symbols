@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 10:53:19 PM</name>
+		<name>07-20-2026 10:53:35 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 10:53:19 PM<br>Count = 377<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 10:53:35 PM<br>Count = 377<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -165,7 +165,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:52:21 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:53:21 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -278,9 +278,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[11° N/0 MPH<br>A=226FT<br>7/20/2026 10:52:52 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[11° N/0 MPH<br>A=187FT<br>7/20/2026 10:53:25 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.6605,38.888</coordinates>
+			<coordinates>-92.6606667,38.8881667</coordinates>
 		</Point>
 	</Placemark>
 
@@ -848,7 +848,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:50:23 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:53:24 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8135,38.8841667</coordinates>
 		</Point>
@@ -885,7 +885,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:50:26 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:53:26 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6853333,38.617</coordinates>
 		</Point>
@@ -2726,7 +2726,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:51:32 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:53:21 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.306,38.5641667</coordinates>
 		</Point>
