@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 9:44:29 PM</name>
+		<name>07-20-2026 9:44:45 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 9:44:29 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 9:44:45 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -38,7 +38,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 9:34:10 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 9:44:31 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.3448946,38.6301177</coordinates>
 		</Point>
@@ -132,7 +132,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 9:34:44 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 9:44:44 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.1975,38.558</coordinates>
 		</Point>
@@ -196,18 +196,18 @@
 		<name>KD0IZI-1</name>
 		<Style id="KD0IZI-1_S">
 			<IconStyle>
-				<heading>10</heading>
+				<heading>43</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[100° E/0 MPH<br>A=45FT<br>7/20/2026 9:43:56 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[313° NW/0 MPH<br>A=82FT<br>7/20/2026 9:44:30 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.659,38.8876667</coordinates>
+			<coordinates>-92.659,38.8878333</coordinates>
 		</Point>
 	</Placemark>
 
