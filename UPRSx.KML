@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 9:28:00 PM</name>
+		<name>07-20-2026 9:28:16 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 9:28:00 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 9:28:16 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -332,7 +332,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[64W 160 HAAT 5db OMNI<br>7/20/2026 9:18:07 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[64W 160 HAAT 5db OMNI<br>7/20/2026 9:28:07 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2133333,38.5516667</coordinates>
 		</Point>
@@ -850,7 +850,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 9:08:11 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 9:28:11 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.48,39.3</coordinates>
 		</Point>
@@ -868,7 +868,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 8:58:12 PM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 9:28:10 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2703333,38.4861667</coordinates>
 		</Point>
