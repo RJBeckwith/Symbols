@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 8:06:11 PM</name>
+		<name>07-20-2026 8:06:27 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 8:06:11 PM<br>Count = 76<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 8:06:27 PM<br>Count = 76<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -196,7 +196,7 @@
 		<name>KD0IZI-1</name>
 		<Style id="KD0IZI-1_S">
 			<IconStyle>
-				<heading>-47</heading>
+				<heading>-31</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75R.png</href>
 				</Icon>
@@ -205,9 +205,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[223° SW/2 MPH<br>A=357FT<br>7/20/2026 8:05:41 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[239° SW/1 MPH<br>A=252FT<br>7/20/2026 8:06:14 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.6596667,38.888</coordinates>
+			<coordinates>-92.6598333,38.8881667</coordinates>
 		</Point>
 	</Placemark>
 
@@ -296,7 +296,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=20FT<br>Off-Duty<br>7/20/2026 7:56:18 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[A=20FT<br>Off-Duty<br>7/20/2026 8:06:18 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.5,38.33333206</coordinates>
 		</Point>
