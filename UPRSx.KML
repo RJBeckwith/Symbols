@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 11:28:17 PM</name>
+		<name>07-20-2026 11:28:33 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 11:28:17 PM<br>Count = 386<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 11:28:33 PM<br>Count = 386<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -147,7 +147,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:25:22 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:28:22 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8233333,38.8521667</coordinates>
 		</Point>
@@ -165,7 +165,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:27:12 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:28:21 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -662,7 +662,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[85F RH=74% DP=76° BP=1010 hg<br>7/20/2026 11:23:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[85F RH=74% DP=76° BP=1010.1 hg<br>7/20/2026 11:28:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.41,38.9098333</coordinates>
 		</Point>
@@ -3278,7 +3278,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Enroute<br>7/20/2026 11:18:22 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[Enroute<br>7/20/2026 11:28:23 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.24133301,39.70800018</coordinates>
 		</Point>
@@ -3325,14 +3325,14 @@
 		<Style id="KE0MKM-Y_S">
 			<IconStyle>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/167.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/47.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:20:46 PM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:28:18 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.8165,38.8268333</coordinates>
 		</Point>
@@ -3387,7 +3387,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:18:00 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:28:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.937,38.9</coordinates>
 		</Point>
@@ -3405,7 +3405,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:08:23 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:28:23 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.6935,38.206</coordinates>
 		</Point>
@@ -6049,7 +6049,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:08:00 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:28:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.9295,38.5196667</coordinates>
 		</Point>
