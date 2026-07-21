@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 2:59:33 AM</name>
+		<name>07-21-2026 2:59:49 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 2:59:33 AM<br>Count = 400<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 2:59:49 AM<br>Count = 400<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -1124,7 +1124,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:56:49 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:59:48 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5818333,39.3776667</coordinates>
 		</Point>
@@ -1911,7 +1911,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[360° N/0 MPH<br>7/21/2026 2:54:46 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[360° N/0 MPH<br>7/21/2026 2:59:46 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.699,37.452</coordinates>
 		</Point>
@@ -1949,7 +1949,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[83F  S / 1 MPH / 1 MPH<br>RH=80% DP=76° BP=1010.2 hg<br>7/21/2026 2:54:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[83F  S / 1 MPH / 2 MPH<br>RH=80% DP=76° BP=1010.4 hg<br>7/21/2026 2:59:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3726667,39.0268333</coordinates>
 		</Point>
@@ -2726,7 +2726,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:57:21 AM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:59:42 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.306,38.5641667</coordinates>
 		</Point>
@@ -3123,7 +3123,7 @@
 		<name>WB5RFA</name>
 		<Style id="WB5RFA_S">
 			<IconStyle>
-				<heading>175</heading>
+				<heading>174</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -3133,7 +3133,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[84F  S / 2 MPH / 5 MPH<br>RH=76% DP=76° BP=1006.5 hg<br>7/21/2026 2:51:00 AM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[84F  S / 1 MPH / 4 MPH<br>RH=77% DP=76° BP=1006.5 hg<br>7/21/2026 2:59:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8326667,39.0016667</coordinates>
 		</Point>
@@ -5497,7 +5497,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:39:43 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:59:43 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.4028333,38.6805</coordinates>
 		</Point>
@@ -5516,7 +5516,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:39:43 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:59:43 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.4028333,38.6805</coordinates>
 		</Point>
@@ -5535,7 +5535,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:39:47 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:59:47 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.8716667,37.0008333</coordinates>
 		</Point>
@@ -6182,7 +6182,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:29:36 AM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:59:37 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-89.6583333,38.0041667</coordinates>
 		</Point>
