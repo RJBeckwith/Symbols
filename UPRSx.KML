@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 1:01:29 AM</name>
+		<name>07-21-2026 1:01:46 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 1:01:29 AM<br>Count = 393<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 1:01:46 AM<br>Count = 393<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -131,7 +131,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 12:41:32 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 1:01:31 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6823333,38.9506667</coordinates>
 		</Point>
@@ -288,7 +288,7 @@
 		<name>KF0QIL-10</name>
 		<Style id="KF0QIL-10_S">
 			<IconStyle>
-				<heading>103</heading>
+				<heading>80</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -298,7 +298,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[77F  E / 1 MPH / 2 MPH<br>RH=98% DP=76° BP=1010.7 hg<br>7/21/2026 12:31:38 AM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[77F  E / 1 MPH / 2 MPH<br>RH=98% DP=76° BP=1010.6 hg<br>7/21/2026 1:01:38 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.0831667,38.7716667</coordinates>
 		</Point>
@@ -4011,7 +4011,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[152° SE/0 MPH<br>A=1096FT<br>Off-Duty<br>7/21/2026 12:51:35 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[152° SE/0 MPH<br>A=1106FT<br>Off-Duty<br>7/21/2026 1:01:39 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.83233643,38.92366791</coordinates>
 		</Point>
@@ -4966,9 +4966,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=486FT<br>7/21/2026 12:46:35 AM<br>Age = 15 minutes old.<br>]]></description>
+		<description><![CDATA[A=486FT<br>7/21/2026 1:01:38 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-89.7826139,38.7826166</coordinates>
+			<coordinates>-89.7826244,38.7826139</coordinates>
 		</Point>
 	</Placemark>
 
