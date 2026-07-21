@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 12:02:27 AM</name>
+		<name>07-21-2026 12:02:43 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 12:02:27 AM<br>Count = 389<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 12:02:43 AM<br>Count = 389<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -353,9 +353,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[188° S/5 MPH<br>A=1063FT<br>Committed<br>7/21/2026 12:00:54 AM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[195° S/0 MPH<br>A=1132FT<br>Committed<br>7/21/2026 12:02:29 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.77766418,38.965168</coordinates>
+			<coordinates>-94.77783203,38.965168</coordinates>
 		</Point>
 	</Placemark>
 
@@ -719,9 +719,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=405FT<br>7/20/2026 11:47:40 PM<br>Age = 15 minutes old.<br>]]></description>
+		<description><![CDATA[A=405FT<br>7/21/2026 12:02:42 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0431317,38.9117099</coordinates>
+			<coordinates>-90.0431422,38.9116863</coordinates>
 		</Point>
 	</Placemark>
 
@@ -939,7 +939,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:32:37 PM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 12:02:36 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.7333333,38.404</coordinates>
 		</Point>
@@ -2427,7 +2427,7 @@
 		<name>AD0YN</name>
 		<Style id="AD0YN_S">
 			<IconStyle>
-				<heading>196</heading>
+				<heading>180</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -2437,7 +2437,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[83F  S / 2 MPH / 3 MPH<br>RH=80% DP=76° BP=1008.4 hg<br>7/20/2026 11:57:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[83F  S / 2 MPH / 3 MPH<br>RH=80% DP=76° BP=1008.4 hg<br>7/21/2026 12:02:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.3981667,39.6596667</coordinates>
 		</Point>
@@ -3477,15 +3477,17 @@
 		<name>AF0GV-15</name>
 		<Style id="AF0GV-15_S">
 			<IconStyle>
+				<heading>248</heading>
+				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[84F RH=78% DP=77° BP=1008.9 hg<br>7/20/2026 11:30:00 PM<br>Age = 32 minutes old.<br>]]></description>
+		<description><![CDATA[84F  W / 2 MPH / 3 MPH<br>RH=77% DP=76° BP=1008.8 hg<br>7/21/2026 12:02:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.9081667,39.2271667</coordinates>
 		</Point>
@@ -6891,7 +6893,7 @@
 		<name>KB9HGI-9</name>
 		<Style id="KB9HGI-9_S">
 			<IconStyle>
-				<heading>-89</heading>
+				<heading>-35</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
 				</Icon>
@@ -6900,9 +6902,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[1° N/26 MPH<br>A=650FT<br>InService<br>7/21/2026 12:01:03 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[55° NE/12 MPH<br>A=614FT<br>InService<br>7/21/2026 12:02:40 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-91.39649963,39.94033432</coordinates>
+			<coordinates>-91.39633179,39.95033264</coordinates>
 		</Point>
 	</Placemark>
 
