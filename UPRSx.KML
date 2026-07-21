@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 10:07:02 PM</name>
+		<name>07-20-2026 10:07:18 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 10:07:02 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 10:07:18 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -196,7 +196,7 @@
 		<name>KD0IZI-1</name>
 		<Style id="KD0IZI-1_S">
 			<IconStyle>
-				<heading>18</heading>
+				<heading>10</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75R.png</href>
 				</Icon>
@@ -205,9 +205,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[288° W/1 MPH<br>A=52FT<br>7/20/2026 10:06:35 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[280° W/1 MPH<br>A=62FT<br>7/20/2026 10:07:08 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.6581667,38.8871667</coordinates>
+			<coordinates>-92.6583333,38.8873333</coordinates>
 		</Point>
 	</Placemark>
 
@@ -351,7 +351,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=33FT<br>7/20/2026 9:46:00 PM<br>Age = 21 minutes old.<br>]]></description>
+		<description><![CDATA[A=33FT<br>7/20/2026 10:06:00 PM<br>Age = 1 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.1283333,38.6576667</coordinates>
 		</Point>
@@ -370,7 +370,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=33FT<br>7/20/2026 9:46:46 PM<br>Age = 21 minutes old.<br>]]></description>
+		<description><![CDATA[A=33FT<br>7/20/2026 10:07:16 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.1283333,38.6576667</coordinates>
 		</Point>
@@ -426,7 +426,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[79F RH=92% DP=77° BP=1012 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 10:02:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[79F RH=92% DP=77° BP=1012.1 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 10:07:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.7583333,37.9438333</coordinates>
 		</Point>
