@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 3:02:04 PM</name>
+		<name>07-21-2026 3:02:20 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 3:02:04 PM<br>Count = 234<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 3:02:20 PM<br>Count = 234<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -38,7 +38,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:51:52 PM<br>Age = 11 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 3:02:13 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.3450224,38.6313077</coordinates>
 		</Point>
@@ -258,7 +258,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[36W 20 HAAT 7db OMNI<br>7/21/2026 2:52:15 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[36W 20 HAAT 7db OMNI<br>7/21/2026 3:02:15 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.4268333,38.3088333</coordinates>
 		</Point>
@@ -332,7 +332,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 3:01:20 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 3:02:20 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -424,9 +424,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[287° W/70 MPH<br>A=974FT<br>Committed<br>7/21/2026 3:01:08 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[309° NW/78 MPH<br>A=781FT<br>Committed<br>7/21/2026 3:02:18 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.88300323,38.94716644</coordinates>
+			<coordinates>-94.90833282,38.95266724</coordinates>
 		</Point>
 	</Placemark>
 
@@ -2110,18 +2110,18 @@
 		<name>KE5YYN-9</name>
 		<Style id="KE5YYN-9_S">
 			<IconStyle>
-				<heading>75</heading>
+				<heading>54</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[165° S/3 MPH<br>A=1493FT<br>InService<br>7/21/2026 3:00:56 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[324° NW/3 MPH<br>A=1371FT<br>InService<br>7/21/2026 3:02:19 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.62016296,39.04349899</coordinates>
+			<coordinates>-94.62033081,39.04416656</coordinates>
 		</Point>
 	</Placemark>
 
