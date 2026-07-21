@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 4:52:22 AM</name>
+		<name>07-21-2026 4:52:38 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 131<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
+		<description><![CDATA[Count = 133<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 4:52:22 AM<br>Count = 131<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 4:52:38 AM<br>Count = 133<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -312,7 +312,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[80F RH=80% DP=73° <br>7/21/2026 4:47:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[80F RH=80% DP=73° <br>7/21/2026 4:52:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.863,38.8943333</coordinates>
 		</Point>
@@ -1359,7 +1359,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 4:49:23 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 4:52:24 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8233333,38.8521667</coordinates>
 		</Point>
@@ -1433,7 +1433,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 4:49:35 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 4:52:36 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6486667,39.2483333</coordinates>
 		</Point>
@@ -2429,6 +2429,42 @@
 		<description><![CDATA[7/21/2026 4:52:17 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.346,39.3258333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="NEWCEN">
+		<name>NEWCEN</name>
+		<Style id="NEWCEN_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/97.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 4:52:23 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.899,38.8235</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KC0NGU">
+		<name>KC0NGU</name>
+		<Style id="KC0NGU_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/3.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[134° SE/0 MPH<br>A=1047FT<br>Off-Duty<br>7/21/2026 4:52:30 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.83233643,38.92366791</coordinates>
 		</Point>
 	</Placemark>
 
