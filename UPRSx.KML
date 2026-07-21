@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 7:20:15 PM</name>
+		<name>07-20-2026 7:20:31 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 7:20:15 PM<br>Count = 73<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 7:20:31 PM<br>Count = 73<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -205,7 +205,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[16° N/0 MPH<br>A=42FT<br>7/20/2026 7:19:52 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[16° N/0 MPH<br>A=42FT<br>7/20/2026 7:20:24 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6585,38.8871667</coordinates>
 		</Point>
@@ -278,7 +278,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 7:10:01 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 7:20:20 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.3450217,38.6313083</coordinates>
 		</Point>
@@ -426,7 +426,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[87F RH=74% DP=78° BP=1012.2 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 7:15:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[87F RH=77% DP=79° BP=1012.2 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 7:20:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.7583333,37.9438333</coordinates>
 		</Point>
@@ -492,7 +492,7 @@
 		<name>N0TKN</name>
 		<Style id="N0TKN_S">
 			<IconStyle>
-				<heading>179</heading>
+				<heading>212</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -502,7 +502,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[93F  S / 1 MPH / 4 MPH<br>RH=62% DP=78° BP=1009.8 hg<br>7/20/2026 7:10:00 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[93F  SW / 2 MPH / 5 MPH<br>RH=64% DP=79° BP=1009.6 hg<br>7/20/2026 7:20:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2295,38.6196667</coordinates>
 		</Point>
