@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 11:05:09 PM</name>
+		<name>07-20-2026 11:05:25 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 11:05:09 PM<br>Count = 383<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 11:05:25 PM<br>Count = 383<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -38,7 +38,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:55:02 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:05:22 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.3450224,38.6313077</coordinates>
 		</Point>
@@ -165,7 +165,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:04:22 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:05:22 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -220,7 +220,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=10FT<br>7/20/2026 10:44:36 PM<br>Age = 21 minutes old.<br>]]></description>
+		<description><![CDATA[A=10FT<br>7/20/2026 11:05:16 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.48,39.3</coordinates>
 		</Point>
@@ -846,7 +846,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:02:25 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:05:24 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8135,38.8841667</coordinates>
 		</Point>
@@ -2114,7 +2114,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[9W 10 HAAT 0db OMNI<br>7/20/2026 10:35:08 PM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[9W 10 HAAT 0db OMNI<br>7/20/2026 11:05:08 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8236667,38.8893333</coordinates>
 		</Point>
@@ -2207,7 +2207,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[115° SE/0 MPH<br>7/20/2026 10:35:14 PM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[115° SE/0 MPH<br>7/20/2026 11:05:14 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2638333,38.7738333</coordinates>
 		</Point>
@@ -2225,7 +2225,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:35:15 PM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:05:15 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.346,38.9223333</coordinates>
 		</Point>
@@ -2299,7 +2299,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:45:18 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:05:18 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-95.1876667,38.7751667</coordinates>
 		</Point>
@@ -2355,11 +2355,12 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:45:32 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[64W 320 HAAT 6db OMNI<br>7/20/2026 11:05:20 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.4836667,39.3575</coordinates>
 		</Point>
 	</Placemark>
+
 
 	<Placemark id="WV0A   B">
 		<name>WV0A   B</name>
