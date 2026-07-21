@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 4:02:33 AM</name>
+		<name>07-21-2026 4:02:49 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 37<br>Filter = FMWOIU<br>UPRSx Version 2.4.872<br>]]></description>
+		<description><![CDATA[Count = 42<br>Filter = FMWOIU<br>UPRSx Version 2.4.872<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 4:02:33 AM<br>Count = 37<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 4:02:49 AM<br>Count = 42<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -132,9 +132,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[103° E/0 MPH<br>A=754FT<br>7/21/2026 4:02:12 AM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[103° E/0 MPH<br>A=784FT<br>7/21/2026 4:02:45 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.66,38.887</coordinates>
+			<coordinates>-92.66,38.8868333</coordinates>
 		</Point>
 	</Placemark>
 
@@ -705,6 +705,96 @@
 		<description><![CDATA[7/21/2026 4:02:33 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2923333,37.209</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KD0ZEA-6">
+		<name>KD0ZEA-6</name>
+		<Style id="KD0ZEA-6_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/100.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 4:02:34 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.7333333,38.404</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="W0FLA-6">
+		<name>W0FLA-6</name>
+		<Style id="W0FLA-6_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/100.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 4:02:39 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.9346667,38.2896667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KF0RIZ-D">
+		<name>KF0RIZ-D</name>
+		<Style id="KF0RIZ-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/28.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 4:02:40 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.8551667,39.0121667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KF0MJC-D">
+		<name>KF0MJC-D</name>
+		<Style id="KF0MJC-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/8.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 4:02:41 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-94.851,38.888</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KD0YZC-D">
+		<name>KD0YZC-D</name>
+		<Style id="KD0YZC-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/41.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 4:02:46 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-93.7431667,38.3703333</coordinates>
 		</Point>
 	</Placemark>
 
