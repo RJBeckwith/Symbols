@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 7:46:27 PM</name>
+		<name>07-20-2026 7:46:43 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 74<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
+		<description><![CDATA[Count = 75<br>Filter = FMWOIU<br>UPRSx Version 2.4.869<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 7:46:27 PM<br>Count = 74<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 7:46:43 PM<br>Count = 75<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -1386,6 +1386,24 @@
 		<description><![CDATA[7/20/2026 7:23:38 PM<br>Age = 23 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.4255,38.3088333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="KD0ZTA">
+		<name>KD0ZTA</name>
+		<Style id="KD0ZTA_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/8.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[180° S/61 MPH<br>7/20/2026 7:46:31 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-93.009,39.1161667</coordinates>
 		</Point>
 	</Placemark>
 
