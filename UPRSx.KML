@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 5:05:35 AM</name>
+		<name>07-21-2026 5:05:51 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 293<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
+		<description><![CDATA[Count = 294<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 5:05:35 AM<br>Count = 293<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 5:05:51 AM<br>Count = 294<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -404,7 +404,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 5:02:49 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 5:05:48 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5818333,39.3776667</coordinates>
 		</Point>
@@ -422,7 +422,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[9W 320 HAAT 1db SW<br>7/21/2026 5:04:56 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[9W 320 HAAT 1db SW<br>7/21/2026 5:05:51 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.6763333,40.4236667</coordinates>
 		</Point>
@@ -1541,7 +1541,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 5:04:56 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 5:05:48 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7093333,38.8955</coordinates>
 		</Point>
@@ -1815,16 +1815,16 @@
 		<Style id="K0QJ_S">
 			<IconStyle>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/64.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[82F RH=79% DP=75° BP=1010.3 hg<br>7/21/2026 5:05:21 AM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[82F RH=80% DP=75° BP=1010.6 hg<br>7/21/2026 5:05:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.7118333,38.9701667</coordinates>
+			<coordinates>-94.7091667,38.9703333</coordinates>
 		</Point>
 	</Placemark>
 
@@ -3236,7 +3236,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 4:55:00 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 5:05:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.8948333,38.7823333</coordinates>
 		</Point>
@@ -5412,6 +5412,25 @@
 		<description><![CDATA[7/29/2026 10:30:00 AM<br>Age = -11845 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-95.1876667,38.7751667</coordinates>
+		</Point>
+	</Placemark>
+
+
+	<Placemark id="WEMO">
+		<name>WEMO</name>
+		<Style id="WEMO_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/72.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/21/2026 5:05:51 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-93.7216667,38.7666667</coordinates>
 		</Point>
 	</Placemark>
 
