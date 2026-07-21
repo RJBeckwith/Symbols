@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 9:50:38 AM</name>
+		<name>07-21-2026 9:50:54 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 9:50:38 AM<br>Count = 339<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 9:50:54 AM<br>Count = 339<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -777,7 +777,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[91F RH=70% DP=80° BP=1014.4 hg<br>7/21/2026 9:45:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[91F RH=69% DP=80° BP=1014.6 hg<br>7/21/2026 9:50:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5538333,37.0643333</coordinates>
 		</Point>
@@ -1274,7 +1274,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:47:38 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:50:48 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5818333,39.3776667</coordinates>
 		</Point>
@@ -2848,7 +2848,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:30:49 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:50:49 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.2338333,38.4325</coordinates>
 		</Point>
@@ -4770,18 +4770,18 @@
 		<name>W0EOR-9</name>
 		<Style id="W0EOR-9_S">
 			<IconStyle>
-				<heading>69</heading>
+				<heading>-77</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[339° N/24 MPH<br>A=1083FT<br>Enroute<br>7/21/2026 9:42:35 AM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[13° N/55 MPH<br>A=978FT<br>Enroute<br>7/21/2026 9:50:50 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.50283051,38.81349945</coordinates>
+			<coordinates>-94.52733612,38.92583466</coordinates>
 		</Point>
 	</Placemark>
 
