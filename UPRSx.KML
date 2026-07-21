@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 12:09:12 AM</name>
+		<name>07-21-2026 12:09:28 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 12:09:12 AM<br>Count = 390<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 12:09:28 AM<br>Count = 390<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -165,7 +165,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 12:08:21 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 12:09:21 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -3544,9 +3544,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[148° SE/0 MPH<br>A=991FT<br>InService<br>7/20/2026 11:54:23 PM<br>Age = 15 minutes old.<br>]]></description>
+		<description><![CDATA[38° NE/1 MPH<br>A=1119FT<br>InService<br>7/21/2026 12:09:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.45716858,38.7195015</coordinates>
+			<coordinates>-94.45716858,38.71933365</coordinates>
 		</Point>
 	</Placemark>
 
@@ -3652,7 +3652,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:49:16 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 12:09:16 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.48,39.3</coordinates>
 		</Point>
@@ -3670,9 +3670,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=537FT<br>7/20/2026 11:59:14 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[A=472FT<br>7/21/2026 12:09:14 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0984706,38.8727758</coordinates>
+			<coordinates>-90.0984391,38.8728126</coordinates>
 		</Point>
 	</Placemark>
 
@@ -3725,7 +3725,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[64W 160 HAAT 3db OMNI<br>7/20/2026 11:59:23 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[64W 160 HAAT 3db OMNI<br>7/21/2026 12:09:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-89.7713333,39.4775</coordinates>
 		</Point>
