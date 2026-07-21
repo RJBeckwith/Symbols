@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 6:29:03 AM</name>
+		<name>07-21-2026 6:29:19 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 6:29:03 AM<br>Count = 368<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 6:29:19 AM<br>Count = 368<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -431,17 +431,15 @@
 		<name>KD0RIH</name>
 		<Style id="KD0RIH_S">
 			<IconStyle>
-				<heading>316</heading>
-				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
 				</Icon>
-				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[72F  NW / 1 MPH / 2 MPH<br>RH=94% DP=70° BP=1011.5 hg<br>Rain=0.95" since Midnight.<br>7/21/2026 6:24:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[72F RH=94% DP=70° BP=1011.5 hg<br>Rain=0.95" since Midnight.<br>7/21/2026 6:29:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5441667,39.7958333</coordinates>
 		</Point>
@@ -1179,7 +1177,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 6:09:10 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 6:29:10 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.4391667,38.7866667</coordinates>
 		</Point>
@@ -1308,9 +1306,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=437FT<br>7/21/2026 6:19:14 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[A=464FT<br>7/21/2026 6:29:14 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0984496,38.8727863</coordinates>
+			<coordinates>-90.0984706,38.8728231</coordinates>
 		</Point>
 	</Placemark>
 
