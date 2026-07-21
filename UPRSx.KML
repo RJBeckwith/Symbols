@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 2:00:06 AM</name>
+		<name>07-21-2026 2:00:23 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 2:00:06 AM<br>Count = 396<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 2:00:23 AM<br>Count = 396<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -165,7 +165,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 1:59:21 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:00:22 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -660,7 +660,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[84F RH=73% DP=75° BP=1010.2 hg<br>7/21/2026 1:55:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[84F RH=73% DP=75° BP=1010.1 hg<br>7/21/2026 2:00:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.41,38.9098333</coordinates>
 		</Point>
@@ -3846,7 +3846,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[64W 160 HAAT 5db OMNI<br>7/21/2026 1:50:07 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[64W 160 HAAT 5db OMNI<br>7/21/2026 2:00:08 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2133333,38.5516667</coordinates>
 		</Point>
@@ -3901,7 +3901,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/21/2026 1:40:11 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/21/2026 2:00:11 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6908333,38.9955</coordinates>
 		</Point>
@@ -3940,7 +3940,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[81F  S / 2 MPH / 4 MPH<br>RH=87% DP=77° BP=1009.9 hg<br>7/21/2026 1:50:00 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[81F  S / 2 MPH / 4 MPH<br>RH=87% DP=77° BP=1009.9 hg<br>7/21/2026 2:00:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2295,38.6196667</coordinates>
 		</Point>
@@ -6204,7 +6204,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[4° N/0 MPH<br>A=771FT<br>Special<br>7/21/2026 1:30:15 AM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[332° NW/0 MPH<br>A=807FT<br>Special<br>7/21/2026 2:00:19 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.27033234,38.48616791</coordinates>
 		</Point>
@@ -6624,7 +6624,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 1:00:00 AM<br>Age = 60 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:00:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.463,38.9713333</coordinates>
 		</Point>
