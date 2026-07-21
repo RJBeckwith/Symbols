@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 9:55:15 AM</name>
+		<name>07-21-2026 9:55:31 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 9:55:15 AM<br>Count = 350<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 9:55:31 AM<br>Count = 350<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -92,7 +92,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:54:22 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:55:21 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -120,7 +120,7 @@
 		<name>K0WXC-1</name>
 		<Style id="K0WXC-1_S">
 			<IconStyle>
-				<heading>307</heading>
+				<heading>11</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_10.png</href>
@@ -130,7 +130,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[80F  NW / 8 MPH / 9 MPH<br>RH=75% DP=72° BP=1019.4 hg<br>Rain=0.21" since Midnight.<br>7/21/2026 9:50:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[80F  N / 7 MPH / 9 MPH<br>RH=74% DP=71° BP=1019.4 hg<br>Rain=0.21" since Midnight.<br>7/21/2026 9:55:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6298333,40.1493333</coordinates>
 		</Point>
@@ -168,7 +168,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[193° S/0 MPH<br>A=652FT<br>7/21/2026 9:54:13 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[193° S/0 MPH<br>A=659FT<br>7/21/2026 9:55:18 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8873333</coordinates>
 		</Point>
@@ -491,17 +491,15 @@
 		<name>WD0REW</name>
 		<Style id="WD0REW_S">
 			<IconStyle>
-				<heading>2</heading>
-				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
 				</Icon>
-				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[91F  N / 1 MPH / 2 MPH<br>RH=61% DP=76° BP=1014.2 hg<br>7/21/2026 9:50:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[91F RH=62% DP=77° BP=1014.2 hg<br>7/21/2026 9:55:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.251,37.1646667</coordinates>
 		</Point>
@@ -555,7 +553,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=760FT<br>7/21/2026 9:48:48 AM<br>Age = 7 minutes old.<br>]]></description>
+		<description><![CDATA[A=760FT<br>7/21/2026 9:55:16 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.9101667,39.1808333</coordinates>
 		</Point>
@@ -741,7 +739,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:52:24 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:55:25 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8233333,38.8521667</coordinates>
 		</Point>
@@ -795,7 +793,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:52:38 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:55:28 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6263333,39.1131667</coordinates>
 		</Point>
@@ -4123,7 +4121,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:35:17 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:55:17 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.6371667,38.1815</coordinates>
 		</Point>
@@ -4159,7 +4157,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:35:20 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:55:20 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3891667,38.6965</coordinates>
 		</Point>
@@ -6234,7 +6232,7 @@
 		<name>N21PS</name>
 		<Style id="N21PS_S">
 			<IconStyle>
-				<heading>-77</heading>
+				<heading>-76</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/7.png</href>
 				</Icon>
@@ -6243,9 +6241,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[13° N/171 MPH<br>A=7628FT<br>Enroute<br>7/21/2026 9:54:25 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[14° N/170 MPH<br>A=7628FT<br>Enroute<br>7/21/2026 9:55:27 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-95.09133148,38.31650162</coordinates>
+			<coordinates>-95.07917023,38.35783386</coordinates>
 		</Point>
 	</Placemark>
 
