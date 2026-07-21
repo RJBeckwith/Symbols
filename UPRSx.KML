@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 11:12:41 PM</name>
+		<name>07-20-2026 11:12:57 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 384<br>Filter = FMWOIU<br>UPRSx Version 2.4.871<br>]]></description>
+		<description><![CDATA[Count = 385<br>Filter = FMWOIU<br>UPRSx Version 2.4.871<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 11:12:41 PM<br>Count = 384<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 11:12:57 PM<br>Count = 385<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -93,7 +93,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[82F RH=79% DP=75° BP=1013.6 hg<br>7/20/2026 11:07:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[82F RH=80% DP=75° BP=1013.7 hg<br>7/20/2026 11:12:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.251,37.1646667</coordinates>
 		</Point>
@@ -111,7 +111,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[79F RH=91% DP=76° BP=1012.5 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 11:07:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[79F RH=91% DP=76° BP=1012.5 hg<br>Rain=0.01" since Midnight.<br>7/20/2026 11:12:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.7583333,37.9438333</coordinates>
 		</Point>
@@ -278,7 +278,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[331° NW/0 MPH<br>A=629FT<br>7/20/2026 11:12:18 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[331° NW/0 MPH<br>A=623FT<br>7/20/2026 11:12:51 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8873333</coordinates>
 		</Point>
@@ -795,7 +795,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 11:02:22 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 11:12:42 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.9543333,39.2586667</coordinates>
 		</Point>
@@ -923,7 +923,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[83F RH=81% DP=77° BP=29.1 hg<br>7/20/2026 11:07:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[83F RH=81% DP=77° BP=29.1 hg<br>7/20/2026 11:12:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.4156667,38.5875</coordinates>
 		</Point>
@@ -978,7 +978,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:07:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:12:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.9453333,39.0918333</coordinates>
 		</Point>
@@ -2676,7 +2676,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[83F RH=84% DP=78° BP=1013.9 hg<br>7/20/2026 11:07:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[83F RH=84% DP=78° BP=1013.9 hg<br>7/20/2026 11:12:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5538333,37.0643333</coordinates>
 		</Point>
@@ -2766,7 +2766,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:56:46 PM<br>Age = 16 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:12:43 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3813333,37.8608333</coordinates>
 		</Point>
@@ -4437,7 +4437,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:52:51 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:12:51 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93,37</coordinates>
 		</Point>
@@ -4455,7 +4455,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:52:43 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:12:42 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6506667,37.6618333</coordinates>
 		</Point>
@@ -4473,9 +4473,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:42:47 PM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:12:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.3510708,38.706951</coordinates>
+			<coordinates>-90.3511338,38.7070507</coordinates>
 		</Point>
 	</Placemark>
 
@@ -4491,7 +4491,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:52:45 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:12:45 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5835,39.7941667</coordinates>
 		</Point>
@@ -6950,6 +6950,47 @@
 			<coordinates>-94.7773333,38.9651667</coordinates>
 		</Point>
 	</Placemark>
+
+	<Placemark id="EAXSVS17A">
+		<name>EAXSVS17A</name>
+		<Style id="EAXSVS17A_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/146.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:45 AM<br>7/20/2026 11:12:47 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.74,40.48</coordinates>
+		</Point>
+	</Placemark>
+	<Style id="EAXSVS17A_S1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>2300ffff</color>
+			<fill>1</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark id="EAXSVS17A_P1">
+		<name>EAXSVS17A_P1</name>
+		<styleUrl>#EAXSVS17A_S1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+				<coordinates>-92.86,40.18000001,0 -92.96999999,40.58,0 -92.35000001,40.6,0 -92.35000001,40.35,0 -92.86,40.18000001,0 -92.86,40.18000001,0 </coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+
 
 </Document>
 </kml>
