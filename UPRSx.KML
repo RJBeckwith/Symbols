@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 5:31:30 AM</name>
+		<name>07-21-2026 5:31:46 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 5:31:30 AM<br>Count = 339<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 5:31:46 AM<br>Count = 339<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -2149,7 +2149,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 5:11:39 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 5:31:39 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.4295,38.4243333</coordinates>
 		</Point>
@@ -2185,7 +2185,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[81F RH=77% DP=73° BP=1007.7 hg<br>7/21/2026 5:23:00 AM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[81F RH=77% DP=73° BP=1007.8 hg<br>7/21/2026 5:31:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8326667,39.0016667</coordinates>
 		</Point>
@@ -2365,7 +2365,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 5:17:20 AM<br>Age = 14 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 5:31:35 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3433333,38.9926667</coordinates>
 		</Point>
@@ -4624,7 +4624,7 @@
 		<name>KF0QIL-10</name>
 		<Style id="KF0QIL-10_S">
 			<IconStyle>
-				<heading>319</heading>
+				<heading>238</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -4634,7 +4634,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[78F  NW / 2 MPH / 4 MPH<br>RH=91% DP=75° BP=1010.6 hg<br>Rain=0.04" since Midnight.<br>7/21/2026 5:01:38 AM<br>Age = 30 minutes old.<br>]]></description>
+		<description><![CDATA[76F  SW / 1 MPH / 2 MPH<br>RH=95% DP=74° BP=1010 hg<br>Rain=0.07" since Midnight.<br>7/21/2026 5:31:38 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.0831667,38.7716667</coordinates>
 		</Point>
