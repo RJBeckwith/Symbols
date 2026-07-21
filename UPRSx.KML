@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 10:43:38 PM</name>
+		<name>07-20-2026 10:43:54 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 10:43:38 PM<br>Count = 376<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 10:43:54 PM<br>Count = 376<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -389,7 +389,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:37:00 PM<br>Age = 6 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:43:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2786667,37.0728333</coordinates>
 		</Point>
@@ -445,7 +445,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:40:51 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:43:51 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8153333,38.8848333</coordinates>
 		</Point>
@@ -1134,7 +1134,7 @@
 		<name>KD0RIH</name>
 		<Style id="KD0RIH_S">
 			<IconStyle>
-				<heading>255</heading>
+				<heading>257</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -1144,7 +1144,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[87F  W / 3 MPH / 3 MPH<br>RH=69% DP=76° BP=1009 hg<br>7/20/2026 10:38:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[87F  W / 3 MPH / 3 MPH<br>RH=70% DP=76° BP=1009.1 hg<br>7/20/2026 10:43:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5441667,39.7958333</coordinates>
 		</Point>
@@ -1694,7 +1694,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 10:33:53 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 10:43:53 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6681667,38.904</coordinates>
 		</Point>
@@ -1823,7 +1823,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[87F RH=68% DP=75° BP=1013.9 hg<br>7/20/2026 5:38:00 PM<br>Age = 305 minutes old.<br>]]></description>
+		<description><![CDATA[87F RH=68% DP=75° BP=1013.9 hg<br>7/20/2026 5:43:00 PM<br>Age = 300 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6776667,38.9196667</coordinates>
 		</Point>
@@ -3124,7 +3124,7 @@
 		<name>WB5RFA</name>
 		<Style id="WB5RFA_S">
 			<IconStyle>
-				<heading>188</heading>
+				<heading>186</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -3134,7 +3134,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[88F  S / 4 MPH / 6 MPH<br>RH=71% DP=78° BP=1006.4 hg<br>7/20/2026 10:35:00 PM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[88F  S / 3 MPH / 5 MPH<br>RH=71% DP=78° BP=1006.6 hg<br>7/20/2026 10:43:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8326667,39.0016667</coordinates>
 		</Point>
@@ -5740,7 +5740,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 10:22:50 PM<br>Age = 21 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:43:39 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.64,38.1795</coordinates>
 		</Point>
@@ -6088,7 +6088,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[85F RH=63% DP=71° BP=1011.2 hg<br>7/20/2026 10:28:40 PM<br>Age = 15 minutes old.<br>]]></description>
+		<description><![CDATA[84F RH=63% DP=70° BP=1011.6 hg<br>7/20/2026 10:28:40 PM<br>Age = 15 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.4255,38.73</coordinates>
 		</Point>
@@ -6732,7 +6732,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:15 AM<br>7/20/2026 10:38:47 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:15 AM<br>7/20/2026 10:43:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.94,40.7</coordinates>
 		</Point>
@@ -6832,7 +6832,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:00 AM<br>7/20/2026 10:42:48 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:00 AM<br>7/20/2026 10:43:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.85,40.61</coordinates>
 		</Point>
@@ -6873,7 +6873,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:15 AM<br>7/20/2026 10:42:48 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:15 AM<br>7/20/2026 10:43:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.83,40.58</coordinates>
 		</Point>
