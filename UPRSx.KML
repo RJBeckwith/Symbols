@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 7:53:09 PM</name>
+		<name>07-20-2026 7:53:25 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 7:53:09 PM<br>Count = 75<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 7:53:25 PM<br>Count = 75<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -196,16 +196,16 @@
 		<name>KD0IZI-1</name>
 		<Style id="KD0IZI-1_S">
 			<IconStyle>
-				<heading>17</heading>
+				<heading>-55</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75R.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[107° E/0 MPH<br>A=111FT<br>7/20/2026 7:52:18 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[215° SW/0 MPH<br>A=226FT<br>7/20/2026 7:53:25 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.66,38.888</coordinates>
 		</Point>
@@ -647,7 +647,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[4° N/0 MPH<br>A=932FT<br>49W 20 HAAT 3db OMNI<br>7/20/2026 7:43:14 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[4° N/0 MPH<br>A=909FT<br>49W 20 HAAT 3db OMNI<br>7/20/2026 7:53:14 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2638333,38.7738333</coordinates>
 		</Point>
@@ -1106,7 +1106,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[16W 80 HAAT 6db OMNI<br>7/20/2026 7:33:22 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[16W 80 HAAT 6db OMNI<br>7/20/2026 7:53:22 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2208333,38.6993333</coordinates>
 		</Point>
