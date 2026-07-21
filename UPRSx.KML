@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 4:13:52 PM</name>
+		<name>07-21-2026 4:22:36 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 2<br>Filter = FMWOIU<br>UPRSx Version 2.4.891<br>]]></description>
+		<description><![CDATA[Count = 1<br>Filter = FMWOIU<br>UPRSx Version 2.4.894<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 4:13:52 PM<br>Count = 2<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 4:22:36 PM<br>Count = 1<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -25,42 +25,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-
-	<Placemark id="WN0X-1">
-		<name>WN0X-1</name>
-		<Style id="WN0X-1_S">
-			<IconStyle>
-				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/15.png</href>
-				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
-			<LabelStyle>
-				<color>ff00ffff</color>
-			</LabelStyle>
-		</Style>
-		<description><![CDATA[7/21/2026 4:13:05 PM<br>Age = 0 minutes old.<br>]]></description>
-		<Point>
-			<coordinates>-92.3450224,38.6313077</coordinates>
-		</Point>
-	</Placemark>
-
-	<Placemark id="WNTEST">
-		<name>WNTEST</name>
-		<Style id="WNTEST_S">
-			<IconStyle>
-				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/80.png</href>
-				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
-			<LabelStyle>
-				<color>ff00ffff</color>
-			</LabelStyle>
-		</Style>
-		<description><![CDATA[7/20/2026 2:45:00 PM<br>Age = 1528 minutes old.<br>]]></description>
-		<Point>
-			<coordinates>-92.34389,38.6248833</coordinates>
-		</Point>
-	</Placemark>
 
 </Document>
 </kml>
