@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 11:40:39 PM</name>
+		<name>07-20-2026 11:40:55 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 11:40:39 PM<br>Count = 387<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 11:40:55 PM<br>Count = 387<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -278,7 +278,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[333° NW/0 MPH<br>A=718FT<br>7/20/2026 11:40:21 PM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[333° NW/0 MPH<br>A=718FT<br>7/20/2026 11:40:54 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8873333</coordinates>
 		</Point>
@@ -445,7 +445,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:37:51 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:40:51 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8153333,38.8848333</coordinates>
 		</Point>
@@ -537,7 +537,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:37:55 PM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:40:55 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7093333,38.8955</coordinates>
 		</Point>
@@ -1827,7 +1827,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[86F RH=69% DP=75° BP=1013.3 hg<br>7/20/2026 6:35:00 PM<br>Age = 305 minutes old.<br>]]></description>
+		<description><![CDATA[86F RH=69% DP=75° BP=1013.3 hg<br>7/20/2026 6:40:00 PM<br>Age = 300 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6776667,38.9196667</coordinates>
 		</Point>
@@ -3334,14 +3334,14 @@
 		<Style id="KE0MKM-Y_S">
 			<IconStyle>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/47.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/167.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:28:18 PM<br>Age = 12 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:40:45 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.8165,38.8268333</coordinates>
 		</Point>
@@ -5412,7 +5412,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:38:40 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:40:53 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7723333,38.8526667</coordinates>
 		</Point>
@@ -6829,7 +6829,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:20:53 PM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 11:40:53 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.3528333,38.6946667</coordinates>
 		</Point>
@@ -6883,7 +6883,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:45 AM<br>7/20/2026 11:35:48 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 04:45 AM<br>7/20/2026 11:40:47 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.74,40.48</coordinates>
 		</Point>
@@ -6942,7 +6942,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 05:30 AM<br>7/20/2026 11:39:48 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 05:30 AM<br>7/20/2026 11:40:48 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.56,40.28</coordinates>
 		</Point>
