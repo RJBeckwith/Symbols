@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 2:18:00 AM</name>
+		<name>07-21-2026 2:18:16 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 2:18:00 AM<br>Count = 399<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 2:18:16 AM<br>Count = 399<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -278,7 +278,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[170° S/0 MPH<br>A=698FT<br>7/21/2026 2:17:42 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[170° S/0 MPH<br>A=698FT<br>7/21/2026 2:18:14 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8871667</coordinates>
 		</Point>
@@ -717,9 +717,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=405FT<br>7/21/2026 2:03:06 AM<br>Age = 15 minutes old.<br>]]></description>
+		<description><![CDATA[A=405FT<br>7/21/2026 2:18:09 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0431317,38.9116889</coordinates>
+			<coordinates>-90.0431527,38.9116836</coordinates>
 		</Point>
 	</Placemark>
 
@@ -727,7 +727,7 @@
 		<name>KA2FNK</name>
 		<Style id="KA2FNK_S">
 			<IconStyle>
-				<heading>230</heading>
+				<heading>264</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -737,7 +737,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[84F  SW / 2 MPH / 3 MPH<br>RH=67% DP=72° BP=1009.8 hg<br>7/21/2026 2:13:10 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[84F  W / 1 MPH / 4 MPH<br>RH=67% DP=72° BP=1009.9 hg<br>7/21/2026 2:18:11 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7155,39.0356667</coordinates>
 		</Point>
@@ -1343,7 +1343,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:15:02 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:18:01 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3951667,38.9748333</coordinates>
 		</Point>
@@ -1658,7 +1658,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=760FT<br>7/21/2026 2:14:30 AM<br>Age = 4 minutes old.<br>]]></description>
+		<description><![CDATA[A=760FT<br>7/21/2026 2:18:09 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.9101667,39.1808333</coordinates>
 		</Point>
@@ -1723,7 +1723,7 @@
 		<name>W0SS-13</name>
 		<Style id="W0SS-13_S">
 			<IconStyle>
-				<heading>253</heading>
+				<heading>243</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -1733,7 +1733,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[82F  W / 1 MPH / 2 MPH<br>RH=78% DP=75° BP=1011.1 hg<br>7/21/2026 2:13:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[82F  SW / 2 MPH / 2 MPH<br>RH=79% DP=75° BP=1011.1 hg<br>7/21/2026 2:18:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.942,38.8958333</coordinates>
 		</Point>
@@ -2801,7 +2801,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 2:08:38 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 2:18:14 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7138333,37.431</coordinates>
 		</Point>
@@ -3245,7 +3245,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[64W 160 HAAT 5db OMNI<br>7/21/2026 2:08:03 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[64W 160 HAAT 5db OMNI<br>7/21/2026 2:18:03 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.2133333,38.5516667</coordinates>
 		</Point>
