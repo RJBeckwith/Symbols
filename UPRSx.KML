@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 8:11:00 PM</name>
+		<name>07-20-2026 8:11:16 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 8:11:00 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 8:11:16 PM<br>Count = 77<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -205,9 +205,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[16° N/1 MPH<br>A=19FT<br>7/20/2026 8:10:38 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[16° N/1 MPH<br>A=13FT<br>7/20/2026 8:11:11 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.6601667,38.8885</coordinates>
+			<coordinates>-92.6601667,38.8883333</coordinates>
 		</Point>
 	</Placemark>
 
@@ -520,9 +520,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=1259FT<br>7/20/2026 8:01:03 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[A=1274FT<br>7/20/2026 8:11:03 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-92.1313168,37.6042118</coordinates>
+			<coordinates>-92.1312223,37.6042381</coordinates>
 		</Point>
 	</Placemark>
 
@@ -1401,9 +1401,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[182° S/64 MPH<br>7/20/2026 8:09:04 PM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[201° S/70 MPH<br>7/20/2026 8:11:07 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-93.1963333,39.002</coordinates>
+			<coordinates>-93.2063333,38.9708333</coordinates>
 		</Point>
 	</Placemark>
 
