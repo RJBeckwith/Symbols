@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 5:15:03 AM</name>
+		<name>07-21-2026 5:15:19 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 328<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
+		<description><![CDATA[Count = 329<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 5:15:03 AM<br>Count = 328<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 5:15:19 AM<br>Count = 329<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -1665,17 +1665,17 @@
 		<name>KB0RPJ</name>
 		<Style id="KB0RPJ_S">
 			<IconStyle>
-				<heading>267</heading>
+				<heading>323</heading>
 				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_10.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
 				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[71F  W / 5 MPH / 6 MPH<br>RH=91% DP=68° BP=1009.4 hg<br>Rain=0.42" since Midnight.<br>7/21/2026 5:10:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[71F  NW / 2 MPH / 7 MPH<br>RH=91% DP=68° BP=1009.3 hg<br>Rain=0.42" since Midnight.<br>7/21/2026 5:15:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.6113333,40.0708333</coordinates>
 		</Point>
@@ -6059,6 +6059,24 @@
 		<description><![CDATA[7/11/2026 6:11:00 AM<br>Age = 14344 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3383333,37.8791667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="W0BSH">
+		<name>W0BSH</name>
+		<Style id="W0BSH_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/13.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 5:15:15 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.3481667,38.5626667</coordinates>
 		</Point>
 	</Placemark>
 
