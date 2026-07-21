@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 7:38:09 AM</name>
+		<name>07-21-2026 7:38:25 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 7:38:09 AM<br>Count = 396<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 7:38:25 AM<br>Count = 396<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -185,7 +185,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:36:41 AM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:38:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8135,38.8841667</coordinates>
 		</Point>
@@ -665,7 +665,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:33:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:38:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.9453333,39.0918333</coordinates>
 		</Point>
@@ -775,7 +775,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:37:13 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:38:22 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -1220,7 +1220,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:27:05 AM<br>Age = 11 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:38:21 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.306,38.5641667</coordinates>
 		</Point>
@@ -1811,7 +1811,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:36:14 AM<br>Age = 2 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:38:14 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-89.8625,37.7353333</coordinates>
 		</Point>
@@ -3787,7 +3787,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:18:15 AM<br>Age = 20 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:38:15 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.5031667,38.7605</coordinates>
 		</Point>
@@ -7203,7 +7203,7 @@
 		<name>KE5YYN-9</name>
 		<Style id="KE5YYN-9_S">
 			<IconStyle>
-				<heading>64</heading>
+				<heading>10</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
 				</Icon>
@@ -7212,9 +7212,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[154° SE/12 MPH<br>A=1316FT<br>InService<br>7/21/2026 7:38:07 AM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[100° E/15 MPH<br>A=1325FT<br>InService<br>7/21/2026 7:38:23 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-93.22133636,37.07016754</coordinates>
+			<coordinates>-93.21916962,37.06999969</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7296,16 +7296,16 @@
 		<name>AD0MO-9</name>
 		<Style id="AD0MO-9_S">
 			<IconStyle>
-				<heading>-59</heading>
+				<heading>72</heading>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
 				</Icon>
 				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[211° SW/30 MPH<br>A=866FT<br>Off-Duty<br>7/21/2026 7:37:45 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[162° S/18 MPH<br>A=814FT<br>Off-Duty<br>7/21/2026 7:38:21 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.58333588,38.36666489</coordinates>
 		</Point>
