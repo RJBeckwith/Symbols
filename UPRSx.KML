@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 9:41:05 AM</name>
+		<name>07-21-2026 9:41:22 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 291<br>Filter = FMWOIU<br>UPRSx Version 2.4.877<br>]]></description>
+		<description><![CDATA[Count = 294<br>Filter = FMWOIU<br>UPRSx Version 2.4.877<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 9:41:05 AM<br>Count = 291<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 9:41:22 AM<br>Count = 294<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -92,7 +92,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:40:21 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:41:21 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7255,38.9378333</coordinates>
 		</Point>
@@ -989,15 +989,17 @@
 		<name>NI0Z</name>
 		<Style id="NI0Z_S">
 			<IconStyle>
+				<heading>275</heading>
+				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[80F RH=69% DP=69° <br>7/21/2026 9:36:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[81F  W / 1 MPH / 2 MPH<br>RH=69% DP=70° <br>7/21/2026 9:41:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.863,38.8943333</coordinates>
 		</Point>
@@ -1026,15 +1028,17 @@
 		<name>KD0RIH</name>
 		<Style id="KD0RIH_S">
 			<IconStyle>
+				<heading>312</heading>
+				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[85F RH=69% DP=74° BP=1012.2 hg<br>Rain=0.95" since Midnight.<br>7/21/2026 9:36:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[87F  NW / 1 MPH / 2 MPH<br>RH=62% DP=73° BP=1012.2 hg<br>Rain=0.95" since Midnight.<br>7/21/2026 9:41:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.5441667,39.7958333</coordinates>
 		</Point>
@@ -3042,7 +3046,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/21/2026 9:31:11 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/21/2026 9:41:11 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8006667,38.142</coordinates>
 		</Point>
@@ -3079,7 +3083,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:31:00 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:41:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.2915,38.5206667</coordinates>
 		</Point>
@@ -4767,7 +4771,7 @@
 		<name>W0EOR-9</name>
 		<Style id="W0EOR-9_S">
 			<IconStyle>
-				<heading>10</heading>
+				<heading>13</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
@@ -4776,9 +4780,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[280° W/23 MPH<br>A=1033FT<br>Enroute<br>7/21/2026 9:37:40 AM<br>Age = 4 minutes old.<br>]]></description>
+		<description><![CDATA[283° W/16 MPH<br>A=1076FT<br>Enroute<br>7/21/2026 9:41:10 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.48066711,38.80466843</coordinates>
+			<coordinates>-94.49416351,38.81299973</coordinates>
 		</Point>
 	</Placemark>
 
@@ -5393,6 +5397,61 @@
 		</Point>
 	</Placemark>
 
+
+	<Placemark id="KF0REO-D">
+		<name>KF0REO-D</name>
+		<Style id="KF0REO-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/167.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 9:41:07 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-90.5021667,38.7616667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="K9WDW-DP">
+		<name>K9WDW-DP</name>
+		<Style id="K9WDW-DP_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/82.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 9:41:14 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-91.5848333,38.2218333</coordinates>
+		</Point>
+	</Placemark>
+
+
+	<Placemark id="K9AI-D">
+		<name>K9AI-D</name>
+		<Style id="K9AI-D_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/13.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[7/21/2026 9:41:19 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-89.9233333,38.5448333</coordinates>
+		</Point>
+	</Placemark>
 
 </Document>
 </kml>
