@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 12:17:33 AM</name>
+		<name>07-21-2026 12:17:49 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 12:17:33 AM<br>Count = 391<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 12:17:49 AM<br>Count = 391<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -278,7 +278,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[349° N/0 MPH<br>A=682FT<br>7/21/2026 12:17:11 AM<br>Age = 0 minutes old.<br>]]></description>
+		<description><![CDATA[349° N/0 MPH<br>A=682FT<br>7/21/2026 12:17:45 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6598333,38.8873333</coordinates>
 		</Point>
@@ -721,9 +721,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=405FT<br>7/21/2026 12:02:42 AM<br>Age = 15 minutes old.<br>]]></description>
+		<description><![CDATA[A=405FT<br>7/21/2026 12:17:45 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0431422,38.9116863</coordinates>
+			<coordinates>-90.0431475,38.9116836</coordinates>
 		</Point>
 	</Placemark>
 
@@ -731,17 +731,17 @@
 		<name>KA2FNK</name>
 		<Style id="KA2FNK_S">
 			<IconStyle>
-				<heading>222</heading>
+				<heading>229</heading>
 				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_10.png</href>
 				</Icon>
 				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[87F  SW / 3 MPH / 10 MPH<br>RH=61% DP=72° BP=1009.5 hg<br>7/21/2026 12:12:46 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[86F  SW / 5 MPH / 9 MPH<br>RH=62% DP=72° BP=1009.4 hg<br>7/21/2026 12:17:47 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.7155,39.0356667</coordinates>
 		</Point>
@@ -1130,7 +1130,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 12:14:49 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 12:17:38 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5818333,39.3776667</coordinates>
 		</Point>
@@ -2431,7 +2431,7 @@
 		<name>AD0YN</name>
 		<Style id="AD0YN_S">
 			<IconStyle>
-				<heading>158</heading>
+				<heading>179</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -2441,7 +2441,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[82F  SE / 2 MPH / 2 MPH<br>RH=81% DP=76° BP=1008.3 hg<br>7/21/2026 12:12:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[82F  S / 2 MPH / 2 MPH<br>RH=82% DP=76° BP=1008.5 hg<br>7/21/2026 12:17:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.3981667,39.6596667</coordinates>
 		</Point>
@@ -6465,7 +6465,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 11:37:00 PM<br>Age = 40 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 12:17:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2298333,38.724</coordinates>
 		</Point>
@@ -6864,7 +6864,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 05:30 AM<br>7/21/2026 12:07:48 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[Severe Thunderstorm Warning<br>Expires 7/21/2026 05:30 AM<br>7/21/2026 12:17:48 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.56,40.28</coordinates>
 		</Point>
