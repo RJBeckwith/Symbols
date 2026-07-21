@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 9:29:41 AM</name>
+		<name>07-21-2026 9:29:57 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 9:29:41 AM<br>Count = 137<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 9:29:57 AM<br>Count = 137<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -289,15 +289,17 @@
 		<name>NC4M</name>
 		<Style id="NC4M_S">
 			<IconStyle>
+				<heading>315</heading>
+				<scale>1.5</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/63.png</href>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
 				</Icon>
-				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+				<hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>			</IconStyle>
 			<LabelStyle>
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[81F RH=86% DP=77° BP=1012.2 hg<br>7/21/2026 9:24:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[81F  NW / 1 MPH / 2 MPH<br>RH=85% DP=76° BP=1012.3 hg<br>7/21/2026 9:29:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.7583333,37.9438333</coordinates>
 		</Point>
@@ -343,7 +345,7 @@
 		<name>KF0MEE-9</name>
 		<Style id="KF0MEE-9_S">
 			<IconStyle>
-				<heading>83</heading>
+				<heading>14</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/74R.png</href>
 				</Icon>
@@ -352,9 +354,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[353° N/6 MPH<br>A=843FT<br>InService<br>7/21/2026 9:28:39 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[284° W/9 MPH<br>A=860FT<br>InService<br>7/21/2026 9:29:42 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-93.97899628,38.73333359</coordinates>
+			<coordinates>-93.97899628,38.73583221</coordinates>
 		</Point>
 	</Placemark>
 
@@ -407,7 +409,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[360° N/0 MPH<br>7/21/2026 9:24:48 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[267° W/0 MPH<br>7/21/2026 9:29:46 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.699,37.452</coordinates>
 		</Point>
@@ -555,7 +557,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=760FT<br>7/21/2026 9:25:03 AM<br>Age = 4 minutes old.<br>]]></description>
+		<description><![CDATA[A=760FT<br>7/21/2026 9:29:52 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.9101667,39.1808333</coordinates>
 		</Point>
@@ -1272,7 +1274,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 9:26:49 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 9:29:49 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5818333,39.3776667</coordinates>
 		</Point>
