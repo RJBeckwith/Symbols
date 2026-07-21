@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 7:50:22 AM</name>
+		<name>07-21-2026 7:50:38 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 400<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
+		<description><![CDATA[Count = 401<br>Filter = FMWOIU<br>UPRSx Version 2.4.873<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 7:50:22 AM<br>Count = 400<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 7:50:38 AM<br>Count = 401<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -185,7 +185,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:47:24 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:50:24 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.8135,38.8841667</coordinates>
 		</Point>
@@ -240,7 +240,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/21/2026 7:47:26 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[7/21/2026 7:50:27 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6853333,38.617</coordinates>
 		</Point>
@@ -286,7 +286,7 @@
 		<name>K0WXC-1</name>
 		<Style id="K0WXC-1_S">
 			<IconStyle>
-				<heading>161</heading>
+				<heading>173</heading>
 				<scale>1.5</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/wind_barb_5.png</href>
@@ -296,7 +296,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[75F  S / 1 MPH / 1 MPH<br>RH=95% DP=74° BP=1018.6 hg<br>Rain=0.21" since Midnight.<br>7/21/2026 7:45:00 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[75F  S / 2 MPH / 2 MPH<br>RH=93% DP=73° BP=1018.5 hg<br>Rain=0.21" since Midnight.<br>7/21/2026 7:50:00 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.6298333,40.1493333</coordinates>
 		</Point>
@@ -1456,7 +1456,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=760FT<br>7/21/2026 7:45:27 AM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[A=760FT<br>7/21/2026 7:50:30 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-91.9101667,39.1808333</coordinates>
 		</Point>
@@ -7353,7 +7353,7 @@
 		<name>W0JRT-9</name>
 		<Style id="W0JRT-9_S">
 			<IconStyle>
-				<heading>90</heading>
+				<heading>-2</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
 				</Icon>
@@ -7362,9 +7362,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[180° S/43 MPH<br>A=1027FT<br>Committed<br>7/21/2026 7:47:34 AM<br>Age = 3 minutes old.<br>]]></description>
+		<description><![CDATA[88° E/53 MPH<br>A=1024FT<br>Committed<br>7/21/2026 7:50:36 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.76100159,38.95000076</coordinates>
+			<coordinates>-94.75816345,38.94166565</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7384,6 +7384,24 @@
 		<description><![CDATA[48° NE/56 MPH<br>A=594FT<br>Off-Duty<br>7/21/2026 7:50:07 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.67116547,38.7179985</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="K9DGY-5">
+		<name>K9DGY-5</name>
+		<Style id="K9DGY-5_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/75.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[A=552FT<br>7/21/2026 7:50:34 AM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-89.689925,38.7732767</coordinates>
 		</Point>
 	</Placemark>
 
