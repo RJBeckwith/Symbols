@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-21-2026 7:59:02 AM</name>
+		<name>07-21-2026 7:59:18 AM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-21-2026 7:59:02 AM<br>Count = 402<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-21-2026 7:59:18 AM<br>Count = 402<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -1312,9 +1312,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[A=479FT<br>7/21/2026 7:49:14 AM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[A=477FT<br>7/21/2026 7:59:14 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.0983603,38.8727758</coordinates>
+			<coordinates>-90.0985178,38.8728099</coordinates>
 		</Point>
 	</Placemark>
 
@@ -7374,7 +7374,7 @@
 		<name>KF0UIT-8</name>
 		<Style id="KF0UIT-8_S">
 			<IconStyle>
-				<heading>39</heading>
+				<heading>73</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30.png</href>
 				</Icon>
@@ -7383,9 +7383,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[129° SE/18 MPH<br>A=561FT<br>Off-Duty<br>7/21/2026 7:58:23 AM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[163° S/26 MPH<br>A=541FT<br>Off-Duty<br>7/21/2026 7:59:17 AM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-90.52983093,38.76066589</coordinates>
+			<coordinates>-90.52483368,38.75450134</coordinates>
 		</Point>
 	</Placemark>
 
