@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>07-20-2026 10:53:03 PM</name>
+		<name>07-20-2026 10:53:19 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -17,7 +17,7 @@
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[07-20-2026 10:53:03 PM<br>Count = 377<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[07-20-2026 10:53:19 PM<br>Count = 377<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -407,7 +407,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[85F RH=73% DP=76° <br>7/20/2026 10:48:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[85F RH=73% DP=76° <br>7/20/2026 10:53:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.863,38.8943333</coordinates>
 		</Point>
@@ -646,7 +646,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[88F RH=69% DP=77° BP=1009.5 hg<br>7/20/2026 10:48:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[87F RH=70% DP=76° BP=1009.3 hg<br>7/20/2026 10:53:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.6961667,39.2175</coordinates>
 		</Point>
@@ -664,7 +664,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[86F RH=73% DP=77° BP=1010.3 hg<br>7/20/2026 10:48:00 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[86F RH=73% DP=77° BP=1010.3 hg<br>7/20/2026 10:53:00 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.41,38.9098333</coordinates>
 		</Point>
@@ -1434,7 +1434,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[9W 320 HAAT 1db SW<br>7/20/2026 10:48:31 PM<br>Age = 5 minutes old.<br>]]></description>
+		<description><![CDATA[9W 320 HAAT 1db SW<br>7/20/2026 10:53:08 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-90.6763333,40.4236667</coordinates>
 		</Point>
@@ -1490,7 +1490,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 10:43:16 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[49W 80 HAAT 3db OMNI<br>7/20/2026 10:53:11 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.5851667,39.364</coordinates>
 		</Point>
@@ -1509,7 +1509,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[16W 80 HAAT 6db OMNI<br>7/20/2026 10:43:17 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[16W 80 HAAT 6db OMNI<br>7/20/2026 10:53:17 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.2208333,38.6993333</coordinates>
 		</Point>
@@ -1529,7 +1529,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[124° SE/0 MPH<br>7/20/2026 10:43:18 PM<br>Age = 10 minutes old.<br>]]></description>
+		<description><![CDATA[124° SE/0 MPH<br>7/20/2026 10:53:17 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-94.3973333,39.1043333</coordinates>
 		</Point>
@@ -3262,7 +3262,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[7/20/2026 9:53:06 PM<br>Age = 60 minutes old.<br>]]></description>
+		<description><![CDATA[7/20/2026 10:53:05 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-89.9003333,39.6591667</coordinates>
 		</Point>
@@ -5949,7 +5949,7 @@
 		<name>AE0WC-9</name>
 		<Style id="AE0WC-9_S">
 			<IconStyle>
-				<heading>-28</heading>
+				<heading>-55</heading>
 				<Icon>
 					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/30R.png</href>
 				</Icon>
@@ -5958,9 +5958,9 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[242° SW/28 MPH<br>A=1063FT<br>Off-Duty<br>7/20/2026 10:45:35 PM<br>Age = 8 minutes old.<br>]]></description>
+		<description><![CDATA[215° SW/46 MPH<br>A=984FT<br>Off-Duty<br>7/20/2026 10:53:04 PM<br>Age = 0 minutes old.<br>]]></description>
 		<Point>
-			<coordinates>-94.74266815,38.95999908</coordinates>
+			<coordinates>-94.78666687,38.9015007</coordinates>
 		</Point>
 	</Placemark>
 
