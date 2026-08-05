@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>UPRSx</name>
+	<Placemark>
+		<name>08-05-2026 2:02:17 PM</name>
+		<Snippet maxLines="1"></Snippet>
+		<Style>
+			<IconStyle>
+				<Icon>
+				</Icon>
+			</IconStyle>
+				<LabelStyle>
+					<color>ff00ffff</color>
+				</LabelStyle>
+			</Style>
+		<description><![CDATA[Count = 1<br>Filter = FMWOIU<br>UPRSx Version 2.4.1026<br>]]></description>
+	</Placemark>
+	<open>1</open>
+	<Snippet maxLines="1"></Snippet>
+	<description><![CDATA[08-05-2026 2:02:17 PM<br>Count = 1<br>Filter = FMWOIU<br>]]></description>
+
+	<Style id="sn_noicon">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+
+	<Placemark id="WN0X-1">
+		<name>WN0X-1</name>
+		<Style id="WN0X-1_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/15.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[8/5/2026 2:02:02 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.3453439,38.6298307</coordinates>
+		</Point>
+	</Placemark>
+
+</Document>
+</kml>
+
