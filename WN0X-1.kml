@@ -2,7 +2,7 @@
 <Document>
 	<name>UPRSx</name>
 	<Placemark>
-		<name>08-06-2026 1:03:00 PM</name>
+		<name>08-06-2026 1:23:37 PM</name>
 		<Snippet maxLines="1"></Snippet>
 		<Style>
 			<IconStyle>
@@ -13,11 +13,11 @@
 					<color>ff00ffff</color>
 				</LabelStyle>
 			</Style>
-		<description><![CDATA[Count = 2<br>Filter = FMWOIU<br>UPRSx Version 2.4.1037<br>]]></description>
+		<description><![CDATA[Count = 3<br>Filter = FMWOIU<br>UPRSx Version 2.4.1037<br>]]></description>
 	</Placemark>
 	<open>1</open>
 	<Snippet maxLines="1"></Snippet>
-	<description><![CDATA[08-06-2026 1:03:00 PM<br>Count = 2<br>Filter = FMWOIU<br>]]></description>
+	<description><![CDATA[08-06-2026 1:23:37 PM<br>Count = 3<br>Filter = FMWOIU<br>]]></description>
 
 	<Style id="sn_noicon">
 		<IconStyle>
@@ -38,7 +38,7 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[8/6/2026 1:02:45 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[8/6/2026 1:22:53 PM<br>Age = 1 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-92.3453439,38.6298307</coordinates>
 		</Point>
@@ -56,12 +56,30 @@
 				<color>ff00ffff</color>
 			</LabelStyle>
 		</Style>
-		<description><![CDATA[36W 20 HAAT 7db OMNI<br>8/6/2026 1:02:56 PM<br>Age = 1 minutes old.<br>]]></description>
+		<description><![CDATA[36W 20 HAAT 7db OMNI<br>8/6/2026 1:22:56 PM<br>Age = 1 minutes old.<br>]]></description>
 		<Point>
 			<coordinates>-93.4268333,38.3088333</coordinates>
 		</Point>
 	</Placemark>
 
+
+	<Placemark id="K0PHP-3">
+		<name>K0PHP-3</name>
+		<Style id="K0PHP-3_S">
+			<IconStyle>
+				<Icon>
+					<href>https://raw.githubusercontent.com/RJBeckwith/Symbols/main/100.png</href>
+				</Icon>
+				<hotSpot x="16" y="16" xunits="pixels" yunits="pixels"/>			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<description><![CDATA[8/6/2026 1:23:02 PM<br>Age = 0 minutes old.<br>]]></description>
+		<Point>
+			<coordinates>-92.346,39.3258333</coordinates>
+		</Point>
+	</Placemark>
 
 </Document>
 </kml>
